@@ -1,16 +1,16 @@
-<html>
-
-<body>Hello World</body>
-
-</html>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub File List</title>
+    <title>Talker</title>
     <style>
+        ul li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
         img {
             width: 150px;
             margin: 10px;
@@ -28,84 +28,43 @@
 </head>
 
 <body>
-    <h1>Files from GitHub</h1>
+    <h1>Talker</h1>
     <ul id="file-list"></ul>
-    
+
     <script>
         const fileListElement = document.getElementById("file-list");
         fetch('manifest.txt')
             .then(response => response.text())
-            .then((data) => 
+            .then((data) =>
                 data.split(/\r?\n/)
             )
             .then(lines => {
                 lines.forEach(line => {
-                    const file = {name:line,download_url:line}
-                   
-                        // Create a list item for each file
-                        const listItem = document.createElement("li");
+                    const regex = /images\/(.*).gif/
+                    const match = line.match (regex)
+                    const file = { name: line, download_url: line }
+                    if(match){
+                        file["spoken_name"] = match[1].replace("_"," ")
+                    }
+            
 
-                        // Create a link to the file
-                        // const link = document.createElement("a");
-                        // link.href = file.download_url; // Direct file URL
-                        // link.textContent = file.name; // Display file name
-                        // link.target = "_blank";
+                    const listItem = document.createElement("li");
 
-                        // listItem.appendChild(link);
-                        fileListElement.appendChild(listItem);
+                    fileListElement.appendChild(listItem);
+                    if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
+                        const img = document.createElement("img");
+                        img.src = file.download_url;
+                        img.alt = file.name;
+                        img.addEventListener("click", function () {
+                            window.speechSynthesis.speak(new SpeechSynthesisUtterance(file.spoken_name));
+                        });
+                        listItem.appendChild(img);
+                    }
 
-                        // Optional: Display images if they are image files
-                        if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
-                            const img = document.createElement("img");
-                            img.src = file.download_url;
-                            img.alt = file.name;
-                            listItem.appendChild(img);
-                        }
-                    
                 });
             })
             .catch(error => console.error("Error fetching files:", error));
-        // const repoOwner = "username"; // Replace with the repository owner's username
-        // const repoName = "repository"; // Replace with the repository name
-        // const folderPath = "folder"; // Replace with the folder path in the repository
 
-        // // GitHub API URL
-        // const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}`;
-
-        // // Fetch the list of files
-        // fetch(apiUrl)
-        //     .then(response => {
-        //         if (!response.ok) {
-        //             throw new Error(`HTTP error! Status: ${response.status}`);
-        //         }
-        //         return response.json();
-        //     })
-        //     .then(files => {
-        //         files.forEach(file => {
-        //             if (file.type === "file") {
-        //                 // Create a list item for each file
-        //                 const listItem = document.createElement("li");
-
-        //                 // Create a link to the file
-        //                 const link = document.createElement("a");
-        //                 link.href = file.download_url; // Direct file URL
-        //                 link.textContent = file.name; // Display file name
-        //                 link.target = "_blank";
-
-        //                 listItem.appendChild(link);
-        //                 fileListElement.appendChild(listItem);
-
-        //                 // Optional: Display images if they are image files
-        //                 if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
-        //                     const img = document.createElement("img");
-        //                     img.src = file.download_url;
-        //                     img.alt = file.name;
-        //                     listItem.appendChild(img);
-        //                 }
-        //             }
-        //         });
-        //     })
-        //     .catch(error => console.error("Error fetching files:", error));
     </script>
 </body>
 
