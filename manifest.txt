@@ -1,7 +1,3 @@
-images/.gitkeep
-images/10_oclock.gif
-images/11_oclock.gif
-images/12_oclock.gif
 images/1_oclock.gif
 images/2_oclock.gif
 images/3_oclock.gif
@@ -11,6 +7,9 @@ images/6_oclock.gif
 images/7_oclock.gif
 images/8_oclock.gif
 images/9_oclock.gif
+images/10_oclock.gif
+images/11_oclock.gif
+images/12_oclock.gif
 images/acoustic_guitar.gif
 images/afternoon.gif
 images/airplane.gif

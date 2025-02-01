@@ -14,6 +14,12 @@
         img {
             width: 150px;
             margin: 10px;
+            transition: transform 0.2s ease-out;
+        }
+
+        img:hover {
+            cursor: pointer;
+            transform: scale(1.05);
         }
 
         ul {
@@ -25,10 +31,13 @@
             margin: 5px 0;
         }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
     <h1>Talker</h1>
+    <input id="search-bar" type="search" placeholder="Search..." class="search">
+    <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
     <ul id="file-list"></ul>
 
     <script>
@@ -41,12 +50,12 @@
             .then(lines => {
                 lines.forEach(line => {
                     const regex = /images\/(.*).gif/
-                    const match = line.match (regex)
+                    const match = line.match(regex)
                     const file = { name: line, download_url: line }
-                    if(match){
-                        file["spoken_name"] = match[1].replace("_"," ")
+                    if (match) {
+                        file["spoken_name"] = match[1].replace("_", " ")
                     }
-            
+
 
                     const listItem = document.createElement("li");
 
@@ -54,9 +63,15 @@
                     if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
                         const img = document.createElement("img");
                         img.src = file.download_url;
-                        img.alt = file.name;
+                        img.alt = file.spoken_name;
+                        img.className = "PECS";
                         img.addEventListener("click", function () {
                             window.speechSynthesis.speak(new SpeechSynthesisUtterance(file.spoken_name));
+                            img.style.transform = "scale(1)";
+                            img.style.transition = "transform 0.25s ease";
+                            setTimeout(function () {
+                                img.style = {}
+                            }, 250);
                         });
                         listItem.appendChild(img);
                     }
@@ -64,7 +79,25 @@
                 });
             })
             .catch(error => console.error("Error fetching files:", error));
+        function updateSearch() {
+            const searchtext = document.getElementById("search-bar").value.replace("'", "")
+            for (let element of document.getElementsByClassName("PECS")) {
+                if (element.getAttribute("alt") && searchtext && !element.getAttribute("alt").includes(searchtext)) {
+                    element.style.visibility = "hidden"
+                    element.style.display = "none"
+                }
+                else {
+                    element.style = null
+                }
+            }
 
+        }
+        document.getElementById("search-button").addEventListener("click", updateSearch)
+        document.getElementById("search-bar").addEventListener('keypress', function (event) {
+            if (event.keyCode === 13) {
+                updateSearch()
+            }
+        });
     </script>
 </body>
 
