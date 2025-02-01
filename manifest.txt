@@ -26,7 +26,6 @@ images/a_lowercase.gif
 images/a_uppercase.gif
 images/back.gif
 images/backache.gif
-images/backpack.gif
 images/bacon.gif
 images/bad_smell.gif
 images/bagel.gif
@@ -36,7 +35,6 @@ images/bananas.gif
 images/baseball_cap.gif
 images/bat.gif
 images/bath.gif
-images/bathtime.gif
 images/beef_corn_dog.gif
 images/beef_stick.gif
 images/bell_pepper.gif
@@ -93,7 +91,6 @@ images/christmas.gif
 images/christmas_tree.gif
 images/church.gif
 images/cinnamon_bun.gif
-images/cinnamon_roll.gif
 images/circle.gif
 images/clap.gif
 images/classroom.gif
@@ -135,7 +132,6 @@ images/dont_touch.gif
 images/doughnut.gif
 images/do_laundry.gif
 images/do_not_run_at_school.gif
-images/do_not_run_away.gif
 images/drawing.gif
 images/drinking.gif
 images/drinking_glass.gif
@@ -172,7 +168,6 @@ images/football.gif
 images/fork.gif
 images/french_fries.gif
 images/fried_chicken.gif
-images/fried_egg.gif
 images/friends.gif
 images/f_lowercase.gif
 images/f_uppercase.gif
@@ -229,7 +224,6 @@ images/idea.gif
 images/i_dont_know.gif
 images/i_lowercase.gif
 images/i_need_help.gif
-images/i_uppercase.gif
 images/i_want.gif
 images/january.gif
 images/july.gif
@@ -276,7 +270,6 @@ images/minivan.gif
 images/monkey_bars.gif
 images/moon.gif
 images/morning.gif
-images/motorcycle.gif
 images/muffin.gif
 images/mustard.gif
 images/m_lowercase.gif

@@ -58,7 +58,15 @@
 
 
                     const listItem = document.createElement("li");
+                    function getVoiceFromName(name) {
+                        speechSynthesis.getVoices().forEach(function (voice, index) {
+                            if (voice.name === name) {
+                                return voice
+                            }
+                        });
 
+                        return null;
+                    }
                     fileListElement.appendChild(listItem);
                     if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
                         const img = document.createElement("img");
@@ -66,7 +74,9 @@
                         img.alt = file.spoken_name;
                         img.className = "PECS";
                         img.addEventListener("click", function () {
-                            window.speechSynthesis.speak(new SpeechSynthesisUtterance(file.spoken_name));
+                            const utterance = new SpeechSynthesisUtterance(file.spoken_name)
+                            utterance.voice = getVoiceFromName("Arthur")
+                            window.speechSynthesis.speak(utterance);
                             img.style.transform = "scale(1)";
                             img.style.transition = "transform 0.25s ease";
                             setTimeout(function () {
@@ -85,9 +95,12 @@
                 if (element.getAttribute("alt") && searchtext && !element.getAttribute("alt").includes(searchtext)) {
                     element.style.visibility = "hidden"
                     element.style.display = "none"
+                    element.parentElement.style.visibility = "hidden"
+                    element.parentElement.style.display = "none"
                 }
                 else {
                     element.style = null
+                    element.parentElement.style = null
                 }
             }
 
