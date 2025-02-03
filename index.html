@@ -90,9 +90,10 @@
             })
             .catch(error => console.error("Error fetching files:", error));
         function updateSearch() {
-            const searchtext = document.getElementById("search-bar").value.replace("'", "")
+            const searchtext = document.getElementById("search-bar").value.replace("'", "").toLowerCase()
             for (let element of document.getElementsByClassName("PECS")) {
-                if (element.getAttribute("alt") && searchtext && !element.getAttribute("alt").includes(searchtext)) {
+                const altText = element.getAttribute("alt").toLowerCase()
+                if (altText && searchtext && !altText.includes(searchtext)) {
                     element.style.visibility = "hidden"
                     element.style.display = "none"
                     element.parentElement.style.visibility = "hidden"
