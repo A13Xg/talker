@@ -38,20 +38,27 @@
     <h1>Talker</h1>
     <input id="search-bar" type="search" placeholder="Search..." class="search">
     <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
+    <div id="categories"></div>
+    <div id="subCategories"></div>
     <ul id="file-list"></ul>
 
     <script>
         const fileListElement = document.getElementById("file-list");
-        fetch('manifest.txt')
-            .then(response => response.text())
-            .then((data) =>
-                data.split(/\r?\n/)
-            )
-            .then(lines => {
-                lines.forEach(line => {
+        const categories = new Set();
+        const subCategories = new Set();
+        const subCategoryToCategory = {};
+        fetch('manifest.json')
+            .then(response => response.json())
+
+            .then(items => {
+                items.forEach(item => {
+                    categories.add(item.category);
+                    subCategories.add(item.subCategory);
+                    subCategoryToCategory[item.subCategory] = item.category;
+                    const image = item.image
                     const regex = /images\/(.*).gif/
-                    const match = line.match(regex)
-                    const file = { name: line, download_url: line }
+                    const match = image.match(regex)
+                    const file = { name: image, download_url: image }
                     if (match) {
                         file["spoken_name"] = match[1].replace("_", " ")
                     }
@@ -88,7 +95,30 @@
 
                 });
             })
+            .then(() => { updateCategories(); updateSubCategories() })
             .catch(error => console.error("Error fetching files:", error));
+        function updateCategories() {
+            console.log(categories)
+            categories.forEach((category) => {
+                if (!category) {
+                    return
+                }
+                const categoryButton = document.createElement("button")
+                categoryButton.textContent = category
+                document.getElementById("categories").appendChild(categoryButton)
+            })
+        }
+        function updateSubCategories() {
+            subCategories.forEach((subCategory) => {
+                if (!subCategory) {
+                    return
+                }
+                const subCategoryButton = document.createElement("button")
+                subCategoryButton.textContent = subCategory
+                document.getElementById("subCategories").appendChild(subCategoryButton)
+            })
+        }
+
         function updateSearch() {
             const searchtext = document.getElementById("search-bar").value.replace("'", "").toLowerCase()
             for (let element of document.getElementsByClassName("PECS")) {

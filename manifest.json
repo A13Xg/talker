@@ -1,0 +1,2747 @@
+[
+  {
+    "image": "images/1_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/2_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/3_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/4_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/5_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/6_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/7_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/8_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/9_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/10_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/11_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/12_oclock.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/acoustic_guitar.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/afternoon.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/airplane.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/all_gone.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ambulance.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/angry.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/apple.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/apple_juice.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/april.gif",
+    "category": "basics",
+    "subCategory": "months"
+  },
+  {
+    "image": "images/august.gif",
+    "category": "basics",
+    "subCategory": "months"
+  },
+  {
+    "image": "images/avocado.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/axe.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/a_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/a_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/back.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/backache.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/backpack.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bacon.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bad_smell.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bagel.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ball.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/banana.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bananas.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/baseball_cap.gif",
+    "category": "clothing",
+    "subCategory": "head"
+  },
+  {
+    "image": "images/bat.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/bath.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bathtime.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/beef_corn_dog.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/beef_stick.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bell_pepper.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/belt.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bible.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bike.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/birthday.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/birthday_cake.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/biting.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/biting_nails.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/black.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/blackberry.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/blocks.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/blowing.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/blow_nose.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/blue.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/booing.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/books.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/boots.gif",
+    "category": "clothing",
+    "subCategory": "feet"
+  },
+  {
+    "image": "images/bottled_water.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bounce_basketball.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/bowl.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bowling.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/bra.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/broccoli.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/brown.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/brownie.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/brush_teeth.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/bubbles.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/bus.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/butter_knife.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/b_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/b_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/calendar.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/calm_down.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/carrot.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cat.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/cauliflower.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chair.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cheerleader.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/cheeseburger.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cheese_puffs.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cheese_slice.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cheese_wedge.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cherry.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chest.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chew.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/chicken_nuggets.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/children.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chili_pepper.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chips.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/chopping_knife.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/christmas.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/christmas_tree.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/church.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cinnamon_bun.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cinnamon_roll.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/circle.gif",
+    "category": "basics",
+    "subCategory": "shapes"
+  },
+  {
+    "image": "images/clap.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/classroom.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/clean_ears.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/clean_up.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cleats.gif",
+    "category": "clothing",
+    "subCategory": "feet"
+  },
+  {
+    "image": "images/climbing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/climb_tree.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/clip_nails.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/clothes_hanger.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cold.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/comb.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/congratulations.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cooking.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/corn.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/corn_dog.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cotton_swab.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/couch.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cow.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/cracker.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/crying.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cucumber.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cupcake.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/cymbal.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/c_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/c_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/dancer.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/dancing.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/day.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/december.gif",
+    "category": "basics",
+    "subCategory": "months"
+  },
+  {
+    "image": "images/dentist.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/dentist_office.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/deodorant.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/dime.gif",
+    "category": "basics",
+    "subCategory": "currency"
+  },
+  {
+    "image": "images/dinosaur_bones.gif",
+    "category": "animals",
+    "subCategory": "dinosaurs"
+  },
+  {
+    "image": "images/doctor.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/dog.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/dont_touch.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/doughnut.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/do_laundry.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/do_not_run_at_school.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/do_not_run_away.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/drawing.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/drinking.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/drinking_glass.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/drive.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/drum.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/drum_and_cymbal.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/drum_sticks.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/dry_face.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/duck.gif",
+    "category": "animals",
+    "subCategory": "birds"
+  },
+  {
+    "image": "images/d_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/d_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/easter.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/eat.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/eat_lunch.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/eggplant.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/elbow.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/evening.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/excited.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/eye.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/eyes.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/e_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/e_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/fall.gif",
+    "category": "basics",
+    "subCategory": "seasons"
+  },
+  {
+    "image": "images/february.gif",
+    "category": "basics",
+    "subCategory": "months"
+  },
+  {
+    "image": "images/feet.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fireman.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fire_extinguisher.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fire_truck.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fish.gif",
+    "category": "animals",
+    "subCategory": "oceanic"
+  },
+  {
+    "image": "images/fist_bump.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/floss.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/foot.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/football.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/fork.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/french_fries.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fried_chicken.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/fried_egg.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/friends.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/f_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/f_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/geography.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/getting_dressed.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/gift.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/gifts.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/giraffe.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/glue.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/goldfish.gif",
+    "category": "animals",
+    "subCategory": "oceanic"
+  },
+  {
+    "image": "images/gold_fish_crackers.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/goodbye.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/good_job.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/go_down_stairs.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/go_up_stairs.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/grapes.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/gray.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/green.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/grilled_cheese.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/grocery_market.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/g_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/g_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/haircut.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/hair_dryer.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hair_pulling.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/halloween.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/ham.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hammer.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hand.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hands.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hands_on_mouth.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/happy.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hard_boiled_egg.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/headache.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/heart.gif",
+    "category": "basics",
+    "subCategory": "shapes"
+  },
+  {
+    "image": "images/hello.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/help_with_cooking.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hide.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/high_five.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/history.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hitting.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/horse.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/hot_dog.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hot_drink.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hot_stove (2).gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hot_stove.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/household_cleaner.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/hug.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/h_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/h_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/ice_cream_cone.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ice_cream_sundae.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/idea.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/i_dont_know.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/i_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/i_need_help.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/i_uppercase.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/i_want.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/january.gif",
+    "category": "basics",
+    "subCategory": "months"
+  },
+  {
+    "image": "images/july.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/jumping.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/jump_on_trampoline.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/june.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/j_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/j_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/ketchup.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/keyboard.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/kicking.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/knee.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/k_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/k_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/lay_down.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/legos.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/lego_play.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/leg_press.gif",
+    "category": "activities",
+    "subCategory": "therapy"
+  },
+  {
+    "image": "images/lemon.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/lettuce.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/lightbulb.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/limo.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/listen.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/listening.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/loaf_of_bread.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/lock.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/lollipop.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/look.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/lunch.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/l_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/l_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/macaroni_and_cheese.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/mad.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/mailbox.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/man.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/mango.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/march.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/math.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/may.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/men.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/microphone.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/milk.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/minivan.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/monkey_bars.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/moon.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/morning.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/motorcycle.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/muffin.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/mustard.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/m_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/m_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/nail_clippers.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/nickel.gif",
+    "category": "basics",
+    "subCategory": "currency"
+  },
+  {
+    "image": "images/night.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/noon.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/notebook.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/november.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_biting.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_biting_nails.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_climbing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_eating_objects.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_hair_pulling.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_hitting.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_jumping.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_kicking.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_open_mouth.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_picking_nose.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_playing_in_trash.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_pointing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_pulling_hair.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_punching.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_running.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_scratching.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_sleeping.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_stick_out_tongue.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_sucking_thumb.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/no_throwing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/nurse.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/n_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/n_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/october.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ok.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/onion.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/orange(fruit).gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/orange.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/orange_juice.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/oval.gif",
+    "category": "basics",
+    "subCategory": "shapes"
+  },
+  {
+    "image": "images/owie.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/o_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/o_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/pan.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pancakes.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/panties.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pants.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pants_on.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/paper.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/paper_towel.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/park.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/parrot.gif",
+    "category": "animals",
+    "subCategory": "birds"
+  },
+  {
+    "image": "images/pasta_sauce.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/peace.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/peach.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/peanut_butter.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pear.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pen.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pencil.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/penguin.gif",
+    "category": "animals",
+    "subCategory": "birds"
+  },
+  {
+    "image": "images/penny.gif",
+    "category": "basics",
+    "subCategory": "currency"
+  },
+  {
+    "image": "images/people.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pet_dog.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/physical_therapy_room.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pick.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pickaxe.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/picking_nose.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pickle.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pickup_truck.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pie.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pig.gif",
+    "category": "animals",
+    "subCategory": "mammals"
+  },
+  {
+    "image": "images/pigeon.gif",
+    "category": "animals",
+    "subCategory": "birds"
+  },
+  {
+    "image": "images/piggyback_ride.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/pineapple.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pink.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/pitcher.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pizza.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pizza_slice.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/playground.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/playing.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/playing_in_trash.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/play_at_beach.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/play_cymbal.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/play_drum.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/play_guitar.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/play_keyboard.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/play_recorder.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/play_video_game.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/please.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pliers.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/plum.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pointing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/policeman.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/police_car.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pool.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/popcorn.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pot.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pray.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/pretzel.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/proud.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pulling_hair.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/pumpkin.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/punching.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/purple.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/put_backpack_on.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/put_in_backpack.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/put_on_deodorant.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/put_on_helmet.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/put_socks_on.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/put_star_on_tree.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/puzzle.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/p_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/p_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/quarter.gif",
+    "category": "basics",
+    "subCategory": "currency"
+  },
+  {
+    "image": "images/quiet_mouth.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/q_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/q_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/radish.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/raisins.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/raspberry.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ready_to_work.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/recorder.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/rectangle.gif",
+    "category": "basics",
+    "subCategory": "shapes"
+  },
+  {
+    "image": "images/red.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/refrigerator.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/remote_control.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/rideon.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/ride_in_car.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/rv.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/r_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/r_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/sack_lunch.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sad.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sandbox.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/sandwhich.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/saw.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/scared.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/school.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/science.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/scissors.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/scratching.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/screwdriver.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/seal.gif",
+    "category": "animals",
+    "subCategory": "oceanic"
+  },
+  {
+    "image": "images/semi_trailer_truck.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/september.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shake_hands.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/shark.gif",
+    "category": "animals",
+    "subCategory": "oceanic"
+  },
+  {
+    "image": "images/shirt.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shirt_on.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shoes_on.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shorts.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shoulder.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/shovel.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sick.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/singing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sit.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/sneeze.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/snow_plow.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/soap.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/social_studies.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/socks.gif",
+    "category": "clothing",
+    "subCategory": "feet"
+  },
+  {
+    "image": "images/soda.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/spool_of_thread.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/stick_out_tongue.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/stocking.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/stomach_ache.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/stop.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/stove.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/strawberry.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/strong.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/stubborn.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/students.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sucking_thumb.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/sugar.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/summer.gif",
+    "category": "basics",
+    "subCategory": "seasons"
+  },
+  {
+    "image": "images/sure.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/surprised.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/suv.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/swan.gif",
+    "category": "animals",
+    "subCategory": "birds"
+  },
+  {
+    "image": "images/swimming.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/swim_in_ocean.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/swim_in_pool.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/swing.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/s_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/s_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/tablet.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/tank.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/teddy_bear.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/teeth.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/telescope.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/television.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/thanksgiving.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/therapist.gif",
+    "category": "activities",
+    "subCategory": "therapy"
+  },
+  {
+    "image": "images/thinking.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/this_one.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/throwing.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/throw_away.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/ties_shoes.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/timed_workout.gif",
+    "category": "activities",
+    "subCategory": "therapy"
+  },
+  {
+    "image": "images/time_out.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/time_permitted.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/toast.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toaster.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toilet.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toilet_open.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toilet_paper.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toothpaste.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toothpaste_closed.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toothpaste_open.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/toy_store.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/trampoline.gif",
+    "category": "activities",
+    "subCategory": "play"
+  },
+  {
+    "image": "images/trash_can.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/trumpet.gif",
+    "category": "activities",
+    "subCategory": "music"
+  },
+  {
+    "image": "images/turn_off.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/turn_on.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/turtle.gif",
+    "category": "animals",
+    "subCategory": "reptiles"
+  },
+  {
+    "image": "images/tweezers.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/tyrannosaaurus_rex.gif",
+    "category": "animals",
+    "subCategory": "dinosaurs"
+  },
+  {
+    "image": "images/t_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/t_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/underwear.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/up_to_bat.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/use_remote_control.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/use_toothpaste.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/u_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/u_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/vaccuming.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/van.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/volleyball_player.gif",
+    "category": "activities",
+    "subCategory": "sports"
+  },
+  {
+    "image": "images/v_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/v_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/waffles.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wagon.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wait.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/walk.gif",
+    "category": "activities",
+    "subCategory": "every_day"
+  },
+  {
+    "image": "images/wash_hands.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/watching_tv.gif",
+    "category": "activities",
+    "subCategory": "entertainment"
+  },
+  {
+    "image": "images/water.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/watermelon.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/water_fountain.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wave.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wear_helmet.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/week.gif",
+    "category": "basics",
+    "subCategory": "time"
+  },
+  {
+    "image": "images/white.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/wink.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/winter.gif",
+    "category": "basics",
+    "subCategory": "seasons"
+  },
+  {
+    "image": "images/winter_coat.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wipe_face.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wipe_nose.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/woman.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/women.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wood_clamp.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/wreath.gif",
+    "category": "basics",
+    "subCategory": "holidays"
+  },
+  {
+    "image": "images/wrench.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/w_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/w_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/x_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/x_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/yawn.gif",
+    "category": "activities",
+    "subCategory": "general_actions"
+  },
+  {
+    "image": "images/yeah.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/yellow.gif",
+    "category": "basics",
+    "subCategory": "colors"
+  },
+  {
+    "image": "images/yikes.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/yucky.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/yummy.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/y_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/y_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/zip-up.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/zipper.gif",
+    "category": "",
+    "subCategory": ""
+  },
+  {
+    "image": "images/z_lowercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  },
+  {
+    "image": "images/z_uppercase.gif",
+    "category": "basics",
+    "subCategory": "alphabet"
+  }
+]
