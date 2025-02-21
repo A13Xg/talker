@@ -211,8 +211,8 @@
   },
   {
     "image": "images/belt.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "lower_body"
   },
   {
     "image": "images/bible.gif",
@@ -311,8 +311,8 @@
   },
   {
     "image": "images/bra.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "upper_body"
   },
   {
     "image": "images/broccoli.gif",
@@ -1621,13 +1621,13 @@
   },
   {
     "image": "images/panties.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "lower_body"
   },
   {
     "image": "images/pants.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "lower_body"
   },
   {
     "image": "images/pants_on.gif",
@@ -2131,8 +2131,8 @@
   },
   {
     "image": "images/shirt.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "upper_body"
   },
   {
     "image": "images/shirt_on.gif",
@@ -2146,8 +2146,8 @@
   },
   {
     "image": "images/shorts.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "lower_body"
   },
   {
     "image": "images/shoulder.gif",
@@ -2206,8 +2206,8 @@
   },
   {
     "image": "images/spool_of_thread.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "misc_clothing"
   },
   {
     "image": "images/stick_out_tongue.gif",
@@ -2496,8 +2496,8 @@
   },
   {
     "image": "images/underwear.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "lower_body"
   },
   {
     "image": "images/up_to_bat.gif",
@@ -2626,8 +2626,8 @@
   },
   {
     "image": "images/winter_coat.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "clothing",
+    "subCategory": "upper_body"
   },
   {
     "image": "images/wipe_face.gif",

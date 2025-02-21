@@ -35,9 +35,10 @@
 </head>
 
 <body>
-    <h1>Talker</h1>
-    <input id="search-bar" type="search" placeholder="Search..." class="search">
-    <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
+    <div id="search">
+        <input id="search-bar" type="search" placeholder="Search..." class="search">
+        <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
+    </div>
     <div id="categories"></div>
     <div id="subCategories"></div>
     <ul id="file-list"></ul>
@@ -79,7 +80,7 @@
                         const img = document.createElement("img");
                         img.src = file.download_url;
                         img.alt = file.spoken_name;
-                        img.className = "PECS";
+                        img.classList.add("PECS", item.category || "category", item.subCategory || "subCategory");
                         img.addEventListener("click", function () {
                             const utterance = new SpeechSynthesisUtterance(file.spoken_name)
                             utterance.voice = getVoiceFromName("Arthur")
@@ -95,8 +96,16 @@
 
                 });
             })
-            .then(() => { updateCategories(); updateSubCategories() })
+            .then(() => { addClearButton(); updateCategories(); updateSubCategories() })
             .catch(error => console.error("Error fetching files:", error));
+
+        function addClearButton() {
+            const categoryButton = document.createElement("button")
+            categoryButton.addEventListener("click", () => filterByClass("PECS"))
+            categoryButton.textContent = "clear"
+            document.getElementById("search").appendChild(categoryButton)
+
+        }
         function updateCategories() {
             console.log(categories)
             categories.forEach((category) => {
@@ -104,6 +113,7 @@
                     return
                 }
                 const categoryButton = document.createElement("button")
+                categoryButton.addEventListener("click", () => filterByClass(category))
                 categoryButton.textContent = category
                 document.getElementById("categories").appendChild(categoryButton)
             })
@@ -114,6 +124,7 @@
                     return
                 }
                 const subCategoryButton = document.createElement("button")
+                subCategoryButton.addEventListener("click", () => filterByClass(subCategory))
                 subCategoryButton.textContent = subCategory
                 document.getElementById("subCategories").appendChild(subCategoryButton)
             })
@@ -124,6 +135,23 @@
             for (let element of document.getElementsByClassName("PECS")) {
                 const altText = element.getAttribute("alt").toLowerCase()
                 if (altText && searchtext && !altText.includes(searchtext)) {
+                    element.style.visibility = "hidden"
+                    element.style.display = "none"
+                    element.parentElement.style.visibility = "hidden"
+                    element.parentElement.style.display = "none"
+                }
+                else {
+                    element.style = null
+                    element.parentElement.style = null
+                }
+            }
+
+        }
+
+        function filterByClass(category) {
+            for (let element of document.getElementsByClassName("PECS")) {
+                const hasCategory = element.classList.contains(category)
+                if (!hasCategory) {
                     element.style.visibility = "hidden"
                     element.style.display = "none"
                     element.parentElement.style.visibility = "hidden"
