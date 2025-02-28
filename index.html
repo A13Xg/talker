@@ -128,8 +128,6 @@
                     return
                 }
                 const className = subCategoryToCategory[subCategory]
-                // console.log(className)
-                //console.log(subCategoryToCategory)
                 const subCategoryButton = document.createElement("button")
                 subCategoryButton.classList.add(className, "subCategoriesButton")
                 subCategoryButton.addEventListener("click", () => filterImagesByClass(subCategory))
@@ -176,9 +174,7 @@
         function filterSubCategoriesByClass(category) {
             for (let element of document.getElementsByClassName("subCategoriesButton")) {
                 const hasCategory = element.classList.contains(category)
-                console.log(category)
-                console.log(hasCategory)
-                console.log(element)
+
                 if (!hasCategory) {
                     element.style.visibility = "hidden"
                     element.style.display = "none"
