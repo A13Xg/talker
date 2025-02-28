@@ -96,12 +96,12 @@
 
                 });
             })
-            .then(() => { addClearButton(); updateCategories(); updateSubCategories() })
+            .then(() => { addClearButton(); updateCategories(); updateSubCategories(); filterSubCategoriesByClass("subCategoriesButton") })
             .catch(error => console.error("Error fetching files:", error));
 
         function addClearButton() {
             const categoryButton = document.createElement("button")
-            categoryButton.addEventListener("click", () => filterByClass("PECS"))
+            categoryButton.addEventListener("click", () => filterImagesByClass("PECS"))
             categoryButton.textContent = "clear"
             document.getElementById("search").appendChild(categoryButton)
 
@@ -113,7 +113,11 @@
                     return
                 }
                 const categoryButton = document.createElement("button")
-                categoryButton.addEventListener("click", () => filterByClass(category))
+                categoryButton.addEventListener("click", () => {
+                    filterImagesByClass(category);
+                    filterSubCategoriesByClass(category)
+                })
+
                 categoryButton.textContent = category.replace("_", " ")
                 document.getElementById("categories").appendChild(categoryButton)
             })
@@ -123,8 +127,12 @@
                 if (!subCategory) {
                     return
                 }
+                const className = subCategoryToCategory[subCategory]
+                // console.log(className)
+                //console.log(subCategoryToCategory)
                 const subCategoryButton = document.createElement("button")
-                subCategoryButton.addEventListener("click", () => filterByClass(subCategory))
+                subCategoryButton.classList.add(className, "subCategoriesButton")
+                subCategoryButton.addEventListener("click", () => filterImagesByClass(subCategory))
                 subCategoryButton.textContent = subCategory.replace("_", " ")
                 document.getElementById("subCategories").appendChild(subCategoryButton)
             })
@@ -148,7 +156,7 @@
 
         }
 
-        function filterByClass(category) {
+        function filterImagesByClass(category) {
             for (let element of document.getElementsByClassName("PECS")) {
                 const hasCategory = element.classList.contains(category)
                 if (!hasCategory) {
@@ -160,6 +168,25 @@
                 else {
                     element.style = null
                     element.parentElement.style = null
+                }
+            }
+
+        }
+
+        function filterSubCategoriesByClass(category) {
+            for (let element of document.getElementsByClassName("subCategoriesButton")) {
+                const hasCategory = element.classList.contains(category)
+                console.log(category)
+                console.log(hasCategory)
+                console.log(element)
+                if (!hasCategory) {
+                    element.style.visibility = "hidden"
+                    element.style.display = "none"
+
+                }
+                else {
+                    element.style = null
+
                 }
             }
 
