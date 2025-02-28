@@ -76,8 +76,8 @@
   },
   {
     "image": "images/all_gone.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/ambulance.gif",
@@ -86,13 +86,13 @@
   },
   {
     "image": "images/angry.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/apple.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/apple_juice.gif",
@@ -136,8 +136,8 @@
   },
   {
     "image": "images/backache.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "pain"
   },
   {
     "image": "images/backpack.gif",
@@ -146,18 +146,18 @@
   },
   {
     "image": "images/bacon.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/bad_smell.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "senses"
   },
   {
     "image": "images/bagel.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/ball.gif",
@@ -166,13 +166,13 @@
   },
   {
     "image": "images/banana.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/bananas.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/baseball_cap.gif",
@@ -196,8 +196,8 @@
   },
   {
     "image": "images/beef_corn_dog.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/beef_stick.gif",
@@ -231,13 +231,13 @@
   },
   {
     "image": "images/birthday_cake.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/biting.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/biting_nails.gif",
@@ -251,8 +251,8 @@
   },
   {
     "image": "images/blackberry.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/blocks.gif",
@@ -326,8 +326,8 @@
   },
   {
     "image": "images/brownie.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/brush_teeth.gif",
@@ -366,8 +366,8 @@
   },
   {
     "image": "images/calm_down.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/carrot.gif",
@@ -396,8 +396,8 @@
   },
   {
     "image": "images/cheeseburger.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/cheese_puffs.gif",
@@ -416,8 +416,8 @@
   },
   {
     "image": "images/cherry.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/chest.gif",
@@ -431,8 +431,8 @@
   },
   {
     "image": "images/chicken_nuggets.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/children.gif",
@@ -471,13 +471,13 @@
   },
   {
     "image": "images/cinnamon_bun.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/cinnamon_roll.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/circle.gif",
@@ -511,8 +511,8 @@
   },
   {
     "image": "images/climbing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/climb_tree.gif",
@@ -531,8 +531,8 @@
   },
   {
     "image": "images/cold.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/comb.gif",
@@ -541,8 +541,8 @@
   },
   {
     "image": "images/congratulations.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/cooking.gif",
@@ -556,8 +556,8 @@
   },
   {
     "image": "images/corn_dog.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/cotton_swab.gif",
@@ -581,8 +581,8 @@
   },
   {
     "image": "images/crying.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/cucumber.gif",
@@ -591,8 +591,8 @@
   },
   {
     "image": "images/cupcake.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/cymbal.gif",
@@ -666,13 +666,13 @@
   },
   {
     "image": "images/dont_touch.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/doughnut.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/do_laundry.gif",
@@ -681,13 +681,13 @@
   },
   {
     "image": "images/do_not_run_at_school.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/do_not_run_away.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/drawing.gif",
@@ -776,8 +776,8 @@
   },
   {
     "image": "images/excited.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/eye.gif",
@@ -861,18 +861,18 @@
   },
   {
     "image": "images/french_fries.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/fried_chicken.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "meats_and_more"
   },
   {
     "image": "images/fried_egg.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/friends.gif",
@@ -931,13 +931,13 @@
   },
   {
     "image": "images/goodbye.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/good_job.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/go_down_stairs.gif",
@@ -951,8 +951,8 @@
   },
   {
     "image": "images/grapes.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/gray.gif",
@@ -966,8 +966,8 @@
   },
   {
     "image": "images/grilled_cheese.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "meats_and_more"
   },
   {
     "image": "images/grocery_market.gif",
@@ -996,8 +996,8 @@
   },
   {
     "image": "images/hair_pulling.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/halloween.gif",
@@ -1006,8 +1006,8 @@
   },
   {
     "image": "images/ham.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "meats_and_more"
   },
   {
     "image": "images/hammer.gif",
@@ -1031,18 +1031,18 @@
   },
   {
     "image": "images/happy.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/hard_boiled_egg.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/headache.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "pain"
   },
   {
     "image": "images/heart.gif",
@@ -1051,8 +1051,8 @@
   },
   {
     "image": "images/hello.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/help_with_cooking.gif",
@@ -1076,8 +1076,8 @@
   },
   {
     "image": "images/hitting.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/horse.gif",
@@ -1086,8 +1086,8 @@
   },
   {
     "image": "images/hot_dog.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/hot_drink.gif",
@@ -1095,14 +1095,9 @@
     "subCategory": ""
   },
   {
-    "image": "images/hot_stove (2).gif",
-    "category": "",
-    "subCategory": ""
-  },
-  {
     "image": "images/hot_stove.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/household_cleaner.gif",
@@ -1126,23 +1121,23 @@
   },
   {
     "image": "images/ice_cream_cone.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/ice_cream_sundae.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/idea.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/i_dont_know.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/i_lowercase.gif",
@@ -1151,8 +1146,8 @@
   },
   {
     "image": "images/i_need_help.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/i_uppercase.gif",
@@ -1161,8 +1156,8 @@
   },
   {
     "image": "images/i_want.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/january.gif",
@@ -1176,8 +1171,8 @@
   },
   {
     "image": "images/jumping.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/jump_on_trampoline.gif",
@@ -1211,8 +1206,8 @@
   },
   {
     "image": "images/kicking.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/knee.gif",
@@ -1251,8 +1246,8 @@
   },
   {
     "image": "images/lemon.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/lettuce.gif",
@@ -1271,13 +1266,13 @@
   },
   {
     "image": "images/listen.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "senses"
   },
   {
     "image": "images/listening.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "senses"
   },
   {
     "image": "images/loaf_of_bread.gif",
@@ -1291,13 +1286,13 @@
   },
   {
     "image": "images/lollipop.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/look.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/lunch.gif",
@@ -1316,13 +1311,13 @@
   },
   {
     "image": "images/macaroni_and_cheese.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/mad.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/mailbox.gif",
@@ -1336,8 +1331,8 @@
   },
   {
     "image": "images/mango.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/march.gif",
@@ -1396,8 +1391,8 @@
   },
   {
     "image": "images/muffin.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/mustard.gif",
@@ -1446,8 +1441,8 @@
   },
   {
     "image": "images/no_biting.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_biting_nails.gif",
@@ -1456,93 +1451,93 @@
   },
   {
     "image": "images/no_climbing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_eating_objects.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_hair_pulling.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_hitting.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_jumping.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_kicking.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_open_mouth.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_picking_nose.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_playing_in_trash.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_pointing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_pulling_hair.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_punching.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_running.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_scratching.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_sleeping.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_stick_out_tongue.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_sucking_thumb.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_throwing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/nurse.gif",
@@ -1566,8 +1561,8 @@
   },
   {
     "image": "images/ok.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/onion.gif",
@@ -1576,8 +1571,8 @@
   },
   {
     "image": "images/orange(fruit).gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/orange.gif",
@@ -1596,8 +1591,8 @@
   },
   {
     "image": "images/owie.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "pain"
   },
   {
     "image": "images/o_lowercase.gif",
@@ -1616,8 +1611,8 @@
   },
   {
     "image": "images/pancakes.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/panties.gif",
@@ -1661,13 +1656,13 @@
   },
   {
     "image": "images/peace.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/peach.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/peanut_butter.gif",
@@ -1676,8 +1671,8 @@
   },
   {
     "image": "images/pear.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/pen.gif",
@@ -1726,8 +1721,8 @@
   },
   {
     "image": "images/picking_nose.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/pickle.gif",
@@ -1741,8 +1736,8 @@
   },
   {
     "image": "images/pie.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "desserts"
   },
   {
     "image": "images/pig.gif",
@@ -1761,8 +1756,8 @@
   },
   {
     "image": "images/pineapple.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/pink.gif",
@@ -1776,13 +1771,13 @@
   },
   {
     "image": "images/pizza.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/pizza_slice.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/playground.gif",
@@ -1796,8 +1791,8 @@
   },
   {
     "image": "images/playing_in_trash.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/play_at_beach.gif",
@@ -1836,8 +1831,8 @@
   },
   {
     "image": "images/please.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/pliers.gif",
@@ -1846,13 +1841,13 @@
   },
   {
     "image": "images/plum.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/pointing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/policeman.gif",
@@ -1891,13 +1886,13 @@
   },
   {
     "image": "images/proud.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/pulling_hair.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/pumpkin.gif",
@@ -1906,8 +1901,8 @@
   },
   {
     "image": "images/punching.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/purple.gif",
@@ -1966,8 +1961,8 @@
   },
   {
     "image": "images/quiet_mouth.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/q_lowercase.gif",
@@ -1991,8 +1986,8 @@
   },
   {
     "image": "images/raspberry.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/ready_to_work.gif",
@@ -2056,8 +2051,8 @@
   },
   {
     "image": "images/sad.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/sandbox.gif",
@@ -2066,8 +2061,8 @@
   },
   {
     "image": "images/sandwhich.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "meats_and_more"
   },
   {
     "image": "images/saw.gif",
@@ -2076,8 +2071,8 @@
   },
   {
     "image": "images/scared.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/school.gif",
@@ -2096,8 +2091,8 @@
   },
   {
     "image": "images/scratching.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/screwdriver.gif",
@@ -2161,8 +2156,8 @@
   },
   {
     "image": "images/sick.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "pain"
   },
   {
     "image": "images/singing.gif",
@@ -2201,8 +2196,8 @@
   },
   {
     "image": "images/soda.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fast_food"
   },
   {
     "image": "images/spool_of_thread.gif",
@@ -2211,8 +2206,8 @@
   },
   {
     "image": "images/stick_out_tongue.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/stocking.gif",
@@ -2221,13 +2216,13 @@
   },
   {
     "image": "images/stomach_ache.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "pain"
   },
   {
     "image": "images/stop.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/stove.gif",
@@ -2236,18 +2231,18 @@
   },
   {
     "image": "images/strawberry.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/strong.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/stubborn.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/students.gif",
@@ -2256,8 +2251,8 @@
   },
   {
     "image": "images/sucking_thumb.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/sugar.gif",
@@ -2271,13 +2266,13 @@
   },
   {
     "image": "images/sure.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/surprised.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "emotions"
   },
   {
     "image": "images/suv.gif",
@@ -2361,18 +2356,18 @@
   },
   {
     "image": "images/thinking.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/this_one.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/throwing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/throw_away.gif",
@@ -2391,8 +2386,8 @@
   },
   {
     "image": "images/time_out.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/time_permitted.gif",
@@ -2401,8 +2396,8 @@
   },
   {
     "image": "images/toast.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/toaster.gif",
@@ -2551,8 +2546,8 @@
   },
   {
     "image": "images/waffles.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "breakfast"
   },
   {
     "image": "images/wagon.gif",
@@ -2561,8 +2556,8 @@
   },
   {
     "image": "images/wait.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/walk.gif",
@@ -2586,8 +2581,8 @@
   },
   {
     "image": "images/watermelon.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "fruit"
   },
   {
     "image": "images/water_fountain.gif",
@@ -2596,8 +2591,8 @@
   },
   {
     "image": "images/wave.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/wear_helmet.gif",
@@ -2616,8 +2611,8 @@
   },
   {
     "image": "images/wink.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/winter.gif",
@@ -2691,8 +2686,8 @@
   },
   {
     "image": "images/yeah.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/yellow.gif",
@@ -2701,18 +2696,18 @@
   },
   {
     "image": "images/yikes.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/yucky.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/yummy.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "general_communication"
   },
   {
     "image": "images/y_lowercase.gif",
