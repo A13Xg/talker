@@ -48,6 +48,7 @@
         const categories = new Set();
         const subCategories = new Set();
         const subCategoryToCategory = {};
+        const CATEGORY_WITHOUT_MATCH = "CATEGORY_WITHOUT_MATCH";
         fetch('manifest.json')
             .then(response => response.json())
 
@@ -66,15 +67,6 @@
 
 
                     const listItem = document.createElement("li");
-                    function getVoiceFromName(name) {
-                        speechSynthesis.getVoices().forEach(function (voice, index) {
-                            if (voice.name === name) {
-                                return voice
-                            }
-                        });
-
-                        return null;
-                    }
                     fileListElement.appendChild(listItem);
                     if (file.name.match(/\.(jpg|jpeg|png|gif|svg)$/i)) {
                         const img = document.createElement("img");
@@ -83,7 +75,6 @@
                         img.classList.add("PECS", item.category || "category", item.subCategory || "subCategory");
                         img.addEventListener("click", function () {
                             const utterance = new SpeechSynthesisUtterance(file.spoken_name)
-                            utterance.voice = getVoiceFromName("Arthur")
                             window.speechSynthesis.speak(utterance);
                             img.style.transform = "scale(1)";
                             img.style.transition = "transform 0.25s ease";
@@ -96,12 +87,20 @@
 
                 });
             })
-            .then(() => { addClearButton(); updateCategories(); updateSubCategories(); filterSubCategoriesByClass("subCategoriesButton") })
+            .then(() => {
+                addClearButton();
+                updateCategories();
+                updateSubCategories();
+                filterSubCategoriesByClass(CATEGORY_WITHOUT_MATCH);
+            })
             .catch(error => console.error("Error fetching files:", error));
 
         function addClearButton() {
             const categoryButton = document.createElement("button")
-            categoryButton.addEventListener("click", () => filterImagesByClass("PECS"))
+            categoryButton.addEventListener("click", () => {
+                filterImagesByClass("PECS");
+                filterSubCategoriesByClass(CATEGORY_WITHOUT_MATCH);
+            })
             categoryButton.textContent = "clear"
             document.getElementById("search").appendChild(categoryButton)
 
