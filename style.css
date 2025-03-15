@@ -1,0 +1,70 @@
+ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+    transition: transform 0.2s ease-out;
+}
+
+img:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* General button styling */
+button {
+    background-color: #040079;
+    /* Green color */
+    color: white;
+    border: 2px solid white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:hover {
+    background-color: #030058;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+/* Search button specifically */
+#search {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 20px;
+}
+
+#search-bar {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+}
+
+#search-button {
+    background-color: #007bff;
+    /* Blue */
+}
+
+#search-button:hover {
+    background-color: #0056b3;
+}

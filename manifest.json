@@ -122,12 +122,14 @@
   {
     "image": "images/a_lowercase.gif",
     "category": "basics",
-    "subCategory": "alphabet"
+    "subCategory": "alphabet", 
+    "spokenName":"ehy lowercase"
   },
   {
     "image": "images/a_uppercase.gif",
     "category": "basics",
-    "subCategory": "alphabet"
+    "subCategory": "alphabet",
+    "spokenName":"ehy uppercase"
   },
   {
     "image": "images/back.gif",
