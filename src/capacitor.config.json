@@ -1,0 +1,10 @@
+{
+  "appId": "com.abc",
+  "appName": "abc",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

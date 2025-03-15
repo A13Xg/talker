@@ -1,0 +1,2760 @@
+{
+  "name": "App",
+  "short_name": "App",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/imgs/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#31d53d",
+  "theme_color": "#31d53d",
+  "images": [
+    {
+      "image": "images/1_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/2_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/3_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/4_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/5_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/6_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/7_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/8_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/9_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/10_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/11_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/12_oclock.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/acoustic_guitar.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/afternoon.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/airplane.gif",
+      "category": "transportation",
+      "subCategory": "air"
+    },
+    {
+      "image": "images/all_gone.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/ambulance.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/angry.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/apple.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/apple_juice.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/april.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/august.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/avocado.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/axe.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/a_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet",
+      "spokenName": "ehy lowercase"
+    },
+    {
+      "image": "images/a_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet",
+      "spokenName": "ehy uppercase"
+    },
+    {
+      "image": "images/back.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/backache.gif",
+      "category": "communicating",
+      "subCategory": "pain"
+    },
+    {
+      "image": "images/backpack.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/bacon.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/bad_smell.gif",
+      "category": "communicating",
+      "subCategory": "senses"
+    },
+    {
+      "image": "images/bagel.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/ball.gif",
+      "category": "places",
+      "subCategory": "toy_store"
+    },
+    {
+      "image": "images/banana.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/bananas.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/baseball_cap.gif",
+      "category": "clothing",
+      "subCategory": "head"
+    },
+    {
+      "image": "images/bat.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/bath.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/bathtime.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/beef_corn_dog.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/beef_stick.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/bell_pepper.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/belt.gif",
+      "category": "clothing",
+      "subCategory": "lower_body"
+    },
+    {
+      "image": "images/bible.gif",
+      "category": "places",
+      "subCategory": "church"
+    },
+    {
+      "image": "images/bike.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/birthday.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/birthday_cake.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/biting.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/biting_nails.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/black.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/blackberry.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/blocks.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/blowing.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/blow_nose.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/blue.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/booing.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/books.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/boots.gif",
+      "category": "clothing",
+      "subCategory": "feet"
+    },
+    {
+      "image": "images/bottled_water.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/bounce_basketball.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/bowl.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/bowling.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/bra.gif",
+      "category": "clothing",
+      "subCategory": "upper_body"
+    },
+    {
+      "image": "images/broccoli.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/brown.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/brownie.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/brush_teeth.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/bubbles.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/bus.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/butter_knife.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/b_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/b_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/calendar.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/calm_down.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/carrot.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/cat.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/cauliflower.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/chair.gif",
+      "category": "household",
+      "subCategory": "family_room"
+    },
+    {
+      "image": "images/cheerleader.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/cheeseburger.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/cheese_puffs.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/cheese_slice.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/cheese_wedge.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/cherry.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/chest.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/chew.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/chicken_nuggets.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/children.gif",
+      "category": "people",
+      "subCategory": "groups"
+    },
+    {
+      "image": "images/chili_pepper.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/chips.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/chopping_knife.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/christmas.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/christmas_tree.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/church.gif",
+      "category": "places",
+      "subCategory": "church"
+    },
+    {
+      "image": "images/cinnamon_bun.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/cinnamon_roll.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/circle.gif",
+      "category": "basics",
+      "subCategory": "shapes"
+    },
+    {
+      "image": "images/clap.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/classroom.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/clean_ears.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/clean_up.gif",
+      "category": "self-help",
+      "subCategory": "general_help"
+    },
+    {
+      "image": "images/cleats.gif",
+      "category": "clothing",
+      "subCategory": "feet"
+    },
+    {
+      "image": "images/climbing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/climb_tree.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/clip_nails.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/clothes_hanger.gif",
+      "category": "household",
+      "subCategory": "misc_household"
+    },
+    {
+      "image": "images/cold.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/comb.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/congratulations.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/cooking.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/corn.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/corn_dog.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/cotton_swab.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/couch.gif",
+      "category": "household",
+      "subCategory": "family_room"
+    },
+    {
+      "image": "images/cow.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/cracker.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/crying.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/cucumber.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/cupcake.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/cymbal.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/c_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/c_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/dancer.gif",
+      "category": "people",
+      "subCategory": "individuals"
+    },
+    {
+      "image": "images/dancing.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/day.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/december.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/dentist.gif",
+      "category": "places",
+      "subCategory": "care_facilities"
+    },
+    {
+      "image": "images/dentist_office.gif",
+      "category": "places",
+      "subCategory": "care_facilities"
+    },
+    {
+      "image": "images/deodorant.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/dime.gif",
+      "category": "basics",
+      "subCategory": "currency"
+    },
+    {
+      "image": "images/dinosaur_bones.gif",
+      "category": "animals",
+      "subCategory": "dinosaurs"
+    },
+    {
+      "image": "images/doctor.gif",
+      "category": "places",
+      "subCategory": "care_facilities"
+    },
+    {
+      "image": "images/dog.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/dont_touch.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/doughnut.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/do_laundry.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/do_not_run_at_school.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/do_not_run_away.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/drawing.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/drinking.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/drinking_glass.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/drive.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/drum.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/drum_and_cymbal.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/drum_sticks.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/dry_face.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/duck.gif",
+      "category": "animals",
+      "subCategory": "birds"
+    },
+    {
+      "image": "images/d_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/d_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/easter.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/eat.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/eat_lunch.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/eggplant.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/elbow.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/evening.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/excited.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/eye.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/eyes.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/e_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/e_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/fall.gif",
+      "category": "basics",
+      "subCategory": "seasons"
+    },
+    {
+      "image": "images/february.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/feet.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/fireman.gif",
+      "category": "people",
+      "subCategory": "individuals"
+    },
+    {
+      "image": "images/fire_extinguisher.gif",
+      "category": "tools",
+      "subCategory": "misc_tools"
+    },
+    {
+      "image": "images/fire_truck.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/fish.gif",
+      "category": "animals",
+      "subCategory": "oceanic"
+    },
+    {
+      "image": "images/fist_bump.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/floss.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/foot.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/football.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/fork.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/french_fries.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/fried_chicken.gif",
+      "category": "foods",
+      "subCategory": "meats_and_more"
+    },
+    {
+      "image": "images/fried_egg.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/friends.gif",
+      "category": "people",
+      "subCategory": "groups"
+    },
+    {
+      "image": "images/f_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/f_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/geography.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/getting_dressed.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/gift.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/gifts.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/giraffe.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/glue.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/goldfish.gif",
+      "category": "animals",
+      "subCategory": "oceanic"
+    },
+    {
+      "image": "images/gold_fish_crackers.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/goodbye.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/good_job.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/go_down_stairs.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/go_up_stairs.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/grapes.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/gray.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/green.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/grilled_cheese.gif",
+      "category": "foods",
+      "subCategory": "meats_and_more"
+    },
+    {
+      "image": "images/grocery_market.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/g_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/g_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/haircut.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/hair_dryer.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/hair_pulling.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/halloween.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/ham.gif",
+      "category": "foods",
+      "subCategory": "meats_and_more"
+    },
+    {
+      "image": "images/hammer.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/hand.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/hands.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/hands_on_mouth.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/happy.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/hard_boiled_egg.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/headache.gif",
+      "category": "communicating",
+      "subCategory": "pain"
+    },
+    {
+      "image": "images/heart.gif",
+      "category": "basics",
+      "subCategory": "shapes"
+    },
+    {
+      "image": "images/hello.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/help_with_cooking.gif",
+      "category": "self-help",
+      "subCategory": "general_help"
+    },
+    {
+      "image": "images/hide.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/high_five.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/history.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/hitting.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/horse.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/hot_dog.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/hot_drink.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/hot_stove.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/household_cleaner.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/hug.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/h_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/h_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/ice_cream_cone.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/ice_cream_sundae.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/idea.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/i_dont_know.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/i_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/i_need_help.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/i_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/i_want.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/january.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/july.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/jumping.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/jump_on_trampoline.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/june.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/j_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/j_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/ketchup.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/keyboard.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/kicking.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/knee.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/k_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/k_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/lay_down.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/legos.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/lego_play.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/leg_press.gif",
+      "category": "activities",
+      "subCategory": "therapy"
+    },
+    {
+      "image": "images/lemon.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/lettuce.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/lightbulb.gif",
+      "category": "household",
+      "subCategory": "misc_household"
+    },
+    {
+      "image": "images/limo.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/listen.gif",
+      "category": "communicating",
+      "subCategory": "senses"
+    },
+    {
+      "image": "images/listening.gif",
+      "category": "communicating",
+      "subCategory": "senses"
+    },
+    {
+      "image": "images/loaf_of_bread.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/lock.gif",
+      "category": "tools",
+      "subCategory": "misc_tools"
+    },
+    {
+      "image": "images/lollipop.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/look.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/lunch.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/l_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/l_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/macaroni_and_cheese.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/mad.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/mailbox.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/man.gif",
+      "category": "people",
+      "subCategory": "individuals"
+    },
+    {
+      "image": "images/mango.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/march.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/math.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/may.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/men.gif",
+      "category": "people",
+      "subCategory": "groups"
+    },
+    {
+      "image": "images/microphone.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/milk.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/minivan.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/monkey_bars.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/moon.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/morning.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/motorcycle.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/muffin.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/mustard.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/m_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/m_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/nail_clippers.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/nickel.gif",
+      "category": "basics",
+      "subCategory": "currency"
+    },
+    {
+      "image": "images/night.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/noon.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/notebook.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/november.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/no_biting.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_biting_nails.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_climbing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_eating_objects.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_hair_pulling.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_hitting.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_jumping.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_kicking.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_open_mouth.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_picking_nose.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_playing_in_trash.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_pointing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_pulling_hair.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_punching.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_running.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_scratching.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_sleeping.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_stick_out_tongue.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_sucking_thumb.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/no_throwing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/nurse.gif",
+      "category": "places",
+      "subCategory": "care_facilities"
+    },
+    {
+      "image": "images/n_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/n_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/october.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/ok.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/onion.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/orange(fruit).gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/orange.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/orange_juice.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/oval.gif",
+      "category": "basics",
+      "subCategory": "shapes"
+    },
+    {
+      "image": "images/owie.gif",
+      "category": "communicating",
+      "subCategory": "pain",
+      "spokenName": "ouwwie"
+    },
+    {
+      "image": "images/o_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/o_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/pan.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/pancakes.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/panties.gif",
+      "category": "clothing",
+      "subCategory": "lower_body"
+    },
+    {
+      "image": "images/pants.gif",
+      "category": "clothing",
+      "subCategory": "lower_body"
+    },
+    {
+      "image": "images/pants_on.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/paper.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/paper_towel.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/park.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/parrot.gif",
+      "category": "animals",
+      "subCategory": "birds"
+    },
+    {
+      "image": "images/pasta_sauce.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/peace.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/peach.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/peanut_butter.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/pear.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/pen.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/pencil.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/penguin.gif",
+      "category": "animals",
+      "subCategory": "birds"
+    },
+    {
+      "image": "images/penny.gif",
+      "category": "basics",
+      "subCategory": "currency"
+    },
+    {
+      "image": "images/people.gif",
+      "category": "people",
+      "subCategory": "groups"
+    },
+    {
+      "image": "images/pet_dog.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/physical_therapy_room.gif",
+      "category": "activities",
+      "subCategory": "therapy"
+    },
+    {
+      "image": "images/pick.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/pickaxe.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/picking_nose.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/pickle.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/pickup_truck.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/pie.gif",
+      "category": "foods",
+      "subCategory": "desserts"
+    },
+    {
+      "image": "images/pig.gif",
+      "category": "animals",
+      "subCategory": "mammals"
+    },
+    {
+      "image": "images/pigeon.gif",
+      "category": "animals",
+      "subCategory": "birds"
+    },
+    {
+      "image": "images/piggyback_ride.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/pineapple.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/pink.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/pitcher.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/pizza.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/pizza_slice.gif",
+      "category": "foods",
+      "subCategory": "fast_food"
+    },
+    {
+      "image": "images/playground.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/playing.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/playing_in_trash.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/play_at_beach.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/play_cymbal.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/play_drum.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/play_guitar.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/play_keyboard.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/play_recorder.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/play_video_game.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/please.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/pliers.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/plum.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/pointing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/policeman.gif",
+      "category": "people",
+      "subCategory": "individuals"
+    },
+    {
+      "image": "images/police_car.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/pool.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/popcorn.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/pot.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/pray.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/pretzel.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/proud.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/pulling_hair.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/pumpkin.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/punching.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/purple.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/put_backpack_on.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/put_in_backpack.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/put_on_deodorant.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/put_on_helmet.gif",
+      "category": "self-help",
+      "subCategory": "general_help"
+    },
+    {
+      "image": "images/put_socks_on.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/put_star_on_tree.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/puzzle.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/p_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/p_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/quarter.gif",
+      "category": "basics",
+      "subCategory": "currency"
+    },
+    {
+      "image": "images/quiet_mouth.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/q_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/q_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/radish.gif",
+      "category": "foods",
+      "subCategory": "vegetables"
+    },
+    {
+      "image": "images/raisins.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/raspberry.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/ready_to_work.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/recorder.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/rectangle.gif",
+      "category": "basics",
+      "subCategory": "shapes"
+    },
+    {
+      "image": "images/red.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/refrigerator.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/remote_control.gif",
+      "category": "household",
+      "subCategory": "family_room"
+    },
+    {
+      "image": "images/rideon.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/ride_in_car.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/rv.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/r_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/r_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/sack_lunch.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/sad.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/sandbox.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/sandwhich.gif",
+      "category": "foods",
+      "subCategory": "meats_and_more"
+    },
+    {
+      "image": "images/saw.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/scared.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/school.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/science.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/scissors.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/scratching.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/screwdriver.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/seal.gif",
+      "category": "animals",
+      "subCategory": "oceanic"
+    },
+    {
+      "image": "images/semi_trailer_truck.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/september.gif",
+      "category": "basics",
+      "subCategory": "months"
+    },
+    {
+      "image": "images/shake_hands.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/shark.gif",
+      "category": "animals",
+      "subCategory": "oceanic"
+    },
+    {
+      "image": "images/shirt.gif",
+      "category": "clothing",
+      "subCategory": "upper_body"
+    },
+    {
+      "image": "images/shirt_on.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/shoes_on.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/shorts.gif",
+      "category": "clothing",
+      "subCategory": "lower_body"
+    },
+    {
+      "image": "images/shoulder.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/shovel.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/sick.gif",
+      "category": "communicating",
+      "subCategory": "pain"
+    },
+    {
+      "image": "images/singing.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/sit.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/sneeze.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/snow_plow.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/soap.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/social_studies.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/socks.gif",
+      "category": "clothing",
+      "subCategory": "feet"
+    },
+    {
+      "image": "images/soda.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/spool_of_thread.gif",
+      "category": "clothing",
+      "subCategory": "misc_clothing"
+    },
+    {
+      "image": "images/stick_out_tongue.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/stocking.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/stomach_ache.gif",
+      "category": "communicating",
+      "subCategory": "pain"
+    },
+    {
+      "image": "images/stop.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/stove.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/strawberry.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/strong.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/stubborn.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/students.gif",
+      "category": "places",
+      "subCategory": "school"
+    },
+    {
+      "image": "images/sucking_thumb.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/sugar.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/summer.gif",
+      "category": "basics",
+      "subCategory": "seasons"
+    },
+    {
+      "image": "images/sure.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/surprised.gif",
+      "category": "communicating",
+      "subCategory": "emotions"
+    },
+    {
+      "image": "images/suv.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/swan.gif",
+      "category": "animals",
+      "subCategory": "birds"
+    },
+    {
+      "image": "images/swimming.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/swim_in_ocean.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/swim_in_pool.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/swing.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/s_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/s_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/tablet.gif",
+      "category": "household",
+      "subCategory": "misc_household"
+    },
+    {
+      "image": "images/tank.gif",
+      "category": "transportation",
+      "subCategory": "military"
+    },
+    {
+      "image": "images/teddy_bear.gif",
+      "category": "places",
+      "subCategory": "toy_store"
+    },
+    {
+      "image": "images/teeth.gif",
+      "category": "people",
+      "subCategory": "body_parts"
+    },
+    {
+      "image": "images/telescope.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/television.gif",
+      "category": "household",
+      "subCategory": "family_room"
+    },
+    {
+      "image": "images/thanksgiving.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/therapist.gif",
+      "category": "activities",
+      "subCategory": "therapy"
+    },
+    {
+      "image": "images/thinking.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/this_one.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/throwing.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/throw_away.gif",
+      "category": "self-help",
+      "subCategory": "general_help"
+    },
+    {
+      "image": "images/ties_shoes.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/timed_workout.gif",
+      "category": "activities",
+      "subCategory": "therapy"
+    },
+    {
+      "image": "images/time_out.gif",
+      "category": "communicating",
+      "subCategory": "behaviors"
+    },
+    {
+      "image": "images/time_permitted.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/toast.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/toaster.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/toilet.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toilet_open.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toilet_paper.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toothpaste.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toothpaste_closed.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toothpaste_open.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/toy_store.gif",
+      "category": "places",
+      "subCategory": "toy_store"
+    },
+    {
+      "image": "images/trampoline.gif",
+      "category": "activities",
+      "subCategory": "play"
+    },
+    {
+      "image": "images/trash_can.gif",
+      "category": "household",
+      "subCategory": "kitchen"
+    },
+    {
+      "image": "images/trumpet.gif",
+      "category": "activities",
+      "subCategory": "music"
+    },
+    {
+      "image": "images/turn_off.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/turn_on.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/turtle.gif",
+      "category": "animals",
+      "subCategory": "reptiles"
+    },
+    {
+      "image": "images/tweezers.gif",
+      "category": "household",
+      "subCategory": "bathroom"
+    },
+    {
+      "image": "images/tyrannosaaurus_rex.gif",
+      "category": "animals",
+      "subCategory": "dinosaurs"
+    },
+    {
+      "image": "images/t_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/t_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/underwear.gif",
+      "category": "clothing",
+      "subCategory": "lower_body"
+    },
+    {
+      "image": "images/up_to_bat.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/use_remote_control.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/use_toothpaste.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/u_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/u_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/vaccuming.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/van.gif",
+      "category": "transportation",
+      "subCategory": "ground"
+    },
+    {
+      "image": "images/volleyball_player.gif",
+      "category": "activities",
+      "subCategory": "sports"
+    },
+    {
+      "image": "images/v_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/v_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/waffles.gif",
+      "category": "foods",
+      "subCategory": "breakfast"
+    },
+    {
+      "image": "images/wagon.gif",
+      "category": "places",
+      "subCategory": "toy_store"
+    },
+    {
+      "image": "images/wait.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/walk.gif",
+      "category": "activities",
+      "subCategory": "every_day"
+    },
+    {
+      "image": "images/wash_hands.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/watching_tv.gif",
+      "category": "activities",
+      "subCategory": "entertainment"
+    },
+    {
+      "image": "images/water.gif",
+      "category": "foods",
+      "subCategory": "snacks_and_more"
+    },
+    {
+      "image": "images/watermelon.gif",
+      "category": "foods",
+      "subCategory": "fruit"
+    },
+    {
+      "image": "images/water_fountain.gif",
+      "category": "places",
+      "subCategory": "outdoors"
+    },
+    {
+      "image": "images/wave.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/wear_helmet.gif",
+      "category": "self-help",
+      "subCategory": "general_help"
+    },
+    {
+      "image": "images/week.gif",
+      "category": "basics",
+      "subCategory": "time"
+    },
+    {
+      "image": "images/white.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/wink.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/winter.gif",
+      "category": "basics",
+      "subCategory": "seasons"
+    },
+    {
+      "image": "images/winter_coat.gif",
+      "category": "clothing",
+      "subCategory": "upper_body"
+    },
+    {
+      "image": "images/wipe_face.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/wipe_nose.gif",
+      "category": "self-help",
+      "subCategory": "personal_care"
+    },
+    {
+      "image": "images/woman.gif",
+      "category": "people",
+      "subCategory": "individuals"
+    },
+    {
+      "image": "images/women.gif",
+      "category": "people",
+      "subCategory": "groups"
+    },
+    {
+      "image": "images/wood_clamp.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/wreath.gif",
+      "category": "basics",
+      "subCategory": "holidays"
+    },
+    {
+      "image": "images/wrench.gif",
+      "category": "tools",
+      "subCategory": "hand_tools"
+    },
+    {
+      "image": "images/w_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/w_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/x_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/x_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/yawn.gif",
+      "category": "activities",
+      "subCategory": "general_actions"
+    },
+    {
+      "image": "images/yeah.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/yellow.gif",
+      "category": "basics",
+      "subCategory": "colors"
+    },
+    {
+      "image": "images/yikes.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/yucky.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/yummy.gif",
+      "category": "communicating",
+      "subCategory": "general_communication"
+    },
+    {
+      "image": "images/y_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/y_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/zip-up.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/zipper.gif",
+      "category": "self-help",
+      "subCategory": "dressing"
+    },
+    {
+      "image": "images/z_lowercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    },
+    {
+      "image": "images/z_uppercase.gif",
+      "category": "basics",
+      "subCategory": "alphabet"
+    }
+  ]
+}
