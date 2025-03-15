@@ -1594,7 +1594,8 @@
   {
     "image": "images/owie.gif",
     "category": "communicating",
-    "subCategory": "pain"
+    "subCategory": "pain",
+    "spokenName": "ouwwie"
   },
   {
     "image": "images/o_lowercase.gif",
