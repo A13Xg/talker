@@ -26,7 +26,6 @@ li {
 /* General button styling */
 button {
     background-color: #040079;
-    /* Green color */
     color: white;
     border: 2px solid white;
     padding: 10px 15px;
@@ -36,10 +35,19 @@ button {
     transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
+button.subCategoriesButton {
+    background-color: #0902ce;
+}
+
 button:hover {
     background-color: #030058;
     transform: scale(1.05);
 }
+
+button.subCategoriesButton:hover {
+    background-color: #0500a1;
+}
+
 
 button:active {
     transform: scale(0.98);
