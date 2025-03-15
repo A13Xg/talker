@@ -71,8 +71,8 @@
   },
   {
     "image": "images/airplane.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "air"
   },
   {
     "image": "images/all_gone.gif",
@@ -81,8 +81,8 @@
   },
   {
     "image": "images/ambulance.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/angry.gif",
@@ -96,8 +96,8 @@
   },
   {
     "image": "images/apple_juice.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/april.gif",
@@ -111,13 +111,13 @@
   },
   {
     "image": "images/avocado.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/axe.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/a_lowercase.gif",
@@ -131,8 +131,8 @@
   },
   {
     "image": "images/back.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/backache.gif",
@@ -141,8 +141,8 @@
   },
   {
     "image": "images/backpack.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/bacon.gif",
@@ -161,8 +161,8 @@
   },
   {
     "image": "images/ball.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "toy_store"
   },
   {
     "image": "images/banana.gif",
@@ -186,13 +186,13 @@
   },
   {
     "image": "images/bath.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/bathtime.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/beef_corn_dog.gif",
@@ -201,13 +201,13 @@
   },
   {
     "image": "images/beef_stick.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/bell_pepper.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/belt.gif",
@@ -216,13 +216,13 @@
   },
   {
     "image": "images/bible.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "church"
   },
   {
     "image": "images/bike.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/birthday.gif",
@@ -241,8 +241,8 @@
   },
   {
     "image": "images/biting_nails.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/black.gif",
@@ -266,8 +266,8 @@
   },
   {
     "image": "images/blow_nose.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/blue.gif",
@@ -281,8 +281,8 @@
   },
   {
     "image": "images/books.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/boots.gif",
@@ -291,8 +291,8 @@
   },
   {
     "image": "images/bottled_water.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/bounce_basketball.gif",
@@ -301,8 +301,8 @@
   },
   {
     "image": "images/bowl.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/bowling.gif",
@@ -316,8 +316,8 @@
   },
   {
     "image": "images/broccoli.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/brown.gif",
@@ -331,8 +331,8 @@
   },
   {
     "image": "images/brush_teeth.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/bubbles.gif",
@@ -341,13 +341,13 @@
   },
   {
     "image": "images/bus.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/butter_knife.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/b_lowercase.gif",
@@ -361,8 +361,8 @@
   },
   {
     "image": "images/calendar.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "time"
   },
   {
     "image": "images/calm_down.gif",
@@ -371,8 +371,8 @@
   },
   {
     "image": "images/carrot.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/cat.gif",
@@ -381,13 +381,13 @@
   },
   {
     "image": "images/cauliflower.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/chair.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "family_room"
   },
   {
     "image": "images/cheerleader.gif",
@@ -401,18 +401,18 @@
   },
   {
     "image": "images/cheese_puffs.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/cheese_slice.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/cheese_wedge.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/cherry.gif",
@@ -421,8 +421,8 @@
   },
   {
     "image": "images/chest.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/chew.gif",
@@ -436,23 +436,23 @@
   },
   {
     "image": "images/children.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "groups"
   },
   {
     "image": "images/chili_pepper.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/chips.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/chopping_knife.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/christmas.gif",
@@ -466,8 +466,8 @@
   },
   {
     "image": "images/church.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "church"
   },
   {
     "image": "images/cinnamon_bun.gif",
@@ -491,18 +491,18 @@
   },
   {
     "image": "images/classroom.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/clean_ears.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/clean_up.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "general_help"
   },
   {
     "image": "images/cleats.gif",
@@ -521,13 +521,13 @@
   },
   {
     "image": "images/clip_nails.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/clothes_hanger.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "misc_household"
   },
   {
     "image": "images/cold.gif",
@@ -536,8 +536,8 @@
   },
   {
     "image": "images/comb.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/congratulations.gif",
@@ -551,8 +551,8 @@
   },
   {
     "image": "images/corn.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/corn_dog.gif",
@@ -561,13 +561,13 @@
   },
   {
     "image": "images/cotton_swab.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/couch.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "family_room"
   },
   {
     "image": "images/cow.gif",
@@ -576,8 +576,8 @@
   },
   {
     "image": "images/cracker.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/crying.gif",
@@ -586,8 +586,8 @@
   },
   {
     "image": "images/cucumber.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/cupcake.gif",
@@ -611,8 +611,8 @@
   },
   {
     "image": "images/dancer.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "individuals"
   },
   {
     "image": "images/dancing.gif",
@@ -631,18 +631,18 @@
   },
   {
     "image": "images/dentist.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "care_facilities"
   },
   {
     "image": "images/dentist_office.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "care_facilities"
   },
   {
     "image": "images/deodorant.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/dime.gif",
@@ -656,8 +656,8 @@
   },
   {
     "image": "images/doctor.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "care_facilities"
   },
   {
     "image": "images/dog.gif",
@@ -701,8 +701,8 @@
   },
   {
     "image": "images/drinking_glass.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/drive.gif",
@@ -726,8 +726,8 @@
   },
   {
     "image": "images/dry_face.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/duck.gif",
@@ -761,13 +761,13 @@
   },
   {
     "image": "images/eggplant.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/elbow.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/evening.gif",
@@ -781,13 +781,13 @@
   },
   {
     "image": "images/eye.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/eyes.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/e_lowercase.gif",
@@ -811,23 +811,23 @@
   },
   {
     "image": "images/feet.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/fireman.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "individuals"
   },
   {
     "image": "images/fire_extinguisher.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "misc_tools"
   },
   {
     "image": "images/fire_truck.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/fish.gif",
@@ -841,13 +841,13 @@
   },
   {
     "image": "images/floss.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/foot.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/football.gif",
@@ -856,8 +856,8 @@
   },
   {
     "image": "images/fork.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/french_fries.gif",
@@ -876,8 +876,8 @@
   },
   {
     "image": "images/friends.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "groups"
   },
   {
     "image": "images/f_lowercase.gif",
@@ -891,13 +891,13 @@
   },
   {
     "image": "images/geography.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/getting_dressed.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/gift.gif",
@@ -916,8 +916,8 @@
   },
   {
     "image": "images/glue.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/goldfish.gif",
@@ -926,8 +926,8 @@
   },
   {
     "image": "images/gold_fish_crackers.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/goodbye.gif",
@@ -971,8 +971,8 @@
   },
   {
     "image": "images/grocery_market.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/g_lowercase.gif",
@@ -991,8 +991,8 @@
   },
   {
     "image": "images/hair_dryer.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/hair_pulling.gif",
@@ -1011,23 +1011,23 @@
   },
   {
     "image": "images/hammer.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/hand.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/hands.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/hands_on_mouth.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/happy.gif",
@@ -1056,8 +1056,8 @@
   },
   {
     "image": "images/help_with_cooking.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "general_help"
   },
   {
     "image": "images/hide.gif",
@@ -1071,8 +1071,8 @@
   },
   {
     "image": "images/history.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/hitting.gif",
@@ -1091,18 +1091,18 @@
   },
   {
     "image": "images/hot_drink.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/hot_stove.gif",
-    "category": "communicating",
-    "subCategory": "general_communication"
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/household_cleaner.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/hug.gif",
@@ -1151,8 +1151,8 @@
   },
   {
     "image": "images/i_uppercase.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "alphabet"
   },
   {
     "image": "images/i_want.gif",
@@ -1166,8 +1166,8 @@
   },
   {
     "image": "images/july.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/jumping.gif",
@@ -1176,13 +1176,13 @@
   },
   {
     "image": "images/jump_on_trampoline.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "activities",
+    "subCategory": "play"
   },
   {
     "image": "images/june.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/j_lowercase.gif",
@@ -1196,8 +1196,8 @@
   },
   {
     "image": "images/ketchup.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/keyboard.gif",
@@ -1211,8 +1211,8 @@
   },
   {
     "image": "images/knee.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/k_lowercase.gif",
@@ -1251,18 +1251,18 @@
   },
   {
     "image": "images/lettuce.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/lightbulb.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "misc_household"
   },
   {
     "image": "images/limo.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/listen.gif",
@@ -1276,13 +1276,13 @@
   },
   {
     "image": "images/loaf_of_bread.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/lock.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "misc_tools"
   },
   {
     "image": "images/lollipop.gif",
@@ -1321,13 +1321,13 @@
   },
   {
     "image": "images/mailbox.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/man.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "individuals"
   },
   {
     "image": "images/mango.gif",
@@ -1336,23 +1336,23 @@
   },
   {
     "image": "images/march.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/math.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/may.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/men.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "groups"
   },
   {
     "image": "images/microphone.gif",
@@ -1361,13 +1361,13 @@
   },
   {
     "image": "images/milk.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/minivan.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/monkey_bars.gif",
@@ -1386,8 +1386,8 @@
   },
   {
     "image": "images/motorcycle.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/muffin.gif",
@@ -1396,8 +1396,8 @@
   },
   {
     "image": "images/mustard.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/m_lowercase.gif",
@@ -1411,8 +1411,8 @@
   },
   {
     "image": "images/nail_clippers.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/nickel.gif",
@@ -1431,13 +1431,13 @@
   },
   {
     "image": "images/notebook.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/november.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/no_biting.gif",
@@ -1446,8 +1446,8 @@
   },
   {
     "image": "images/no_biting_nails.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "communicating",
+    "subCategory": "behaviors"
   },
   {
     "image": "images/no_climbing.gif",
@@ -1541,8 +1541,8 @@
   },
   {
     "image": "images/nurse.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "care_facilities"
   },
   {
     "image": "images/n_lowercase.gif",
@@ -1556,8 +1556,8 @@
   },
   {
     "image": "images/october.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/ok.gif",
@@ -1566,8 +1566,8 @@
   },
   {
     "image": "images/onion.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/orange(fruit).gif",
@@ -1581,8 +1581,8 @@
   },
   {
     "image": "images/orange_juice.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/oval.gif",
@@ -1606,8 +1606,8 @@
   },
   {
     "image": "images/pan.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/pancakes.gif",
@@ -1626,23 +1626,23 @@
   },
   {
     "image": "images/pants_on.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/paper.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/paper_towel.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/park.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/parrot.gif",
@@ -1651,8 +1651,8 @@
   },
   {
     "image": "images/pasta_sauce.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/peace.gif",
@@ -1666,8 +1666,8 @@
   },
   {
     "image": "images/peanut_butter.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/pear.gif",
@@ -1676,13 +1676,13 @@
   },
   {
     "image": "images/pen.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/pencil.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/penguin.gif",
@@ -1696,8 +1696,8 @@
   },
   {
     "image": "images/people.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "groups"
   },
   {
     "image": "images/pet_dog.gif",
@@ -1706,18 +1706,18 @@
   },
   {
     "image": "images/physical_therapy_room.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "activities",
+    "subCategory": "therapy"
   },
   {
     "image": "images/pick.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/pickaxe.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/picking_nose.gif",
@@ -1726,13 +1726,13 @@
   },
   {
     "image": "images/pickle.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/pickup_truck.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/pie.gif",
@@ -1766,8 +1766,8 @@
   },
   {
     "image": "images/pitcher.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/pizza.gif",
@@ -1781,8 +1781,8 @@
   },
   {
     "image": "images/playground.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/playing.gif",
@@ -1801,8 +1801,8 @@
   },
   {
     "image": "images/play_cymbal.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "activities",
+    "subCategory": "music"
   },
   {
     "image": "images/play_drum.gif",
@@ -1836,8 +1836,8 @@
   },
   {
     "image": "images/pliers.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/plum.gif",
@@ -1851,28 +1851,28 @@
   },
   {
     "image": "images/policeman.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "individuals"
   },
   {
     "image": "images/police_car.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/pool.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/popcorn.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/pot.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/pray.gif",
@@ -1881,8 +1881,8 @@
   },
   {
     "image": "images/pretzel.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/proud.gif",
@@ -1896,8 +1896,8 @@
   },
   {
     "image": "images/pumpkin.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/punching.gif",
@@ -1911,28 +1911,28 @@
   },
   {
     "image": "images/put_backpack_on.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/put_in_backpack.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/put_on_deodorant.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/put_on_helmet.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "general_help"
   },
   {
     "image": "images/put_socks_on.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/put_star_on_tree.gif",
@@ -1976,13 +1976,13 @@
   },
   {
     "image": "images/radish.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "vegetables"
   },
   {
     "image": "images/raisins.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/raspberry.gif",
@@ -1991,8 +1991,8 @@
   },
   {
     "image": "images/ready_to_work.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/recorder.gif",
@@ -2011,13 +2011,13 @@
   },
   {
     "image": "images/refrigerator.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/remote_control.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "family_room"
   },
   {
     "image": "images/rideon.gif",
@@ -2031,8 +2031,8 @@
   },
   {
     "image": "images/rv.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/r_lowercase.gif",
@@ -2046,8 +2046,8 @@
   },
   {
     "image": "images/sack_lunch.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/sad.gif",
@@ -2066,8 +2066,8 @@
   },
   {
     "image": "images/saw.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/scared.gif",
@@ -2076,18 +2076,18 @@
   },
   {
     "image": "images/school.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/science.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/scissors.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/scratching.gif",
@@ -2096,8 +2096,8 @@
   },
   {
     "image": "images/screwdriver.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/seal.gif",
@@ -2106,13 +2106,13 @@
   },
   {
     "image": "images/semi_trailer_truck.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/september.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "basics",
+    "subCategory": "months"
   },
   {
     "image": "images/shake_hands.gif",
@@ -2131,13 +2131,13 @@
   },
   {
     "image": "images/shirt_on.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/shoes_on.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/shorts.gif",
@@ -2146,13 +2146,13 @@
   },
   {
     "image": "images/shoulder.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/shovel.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/sick.gif",
@@ -2161,8 +2161,8 @@
   },
   {
     "image": "images/singing.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "activities",
+    "subCategory": "music"
   },
   {
     "image": "images/sit.gif",
@@ -2176,18 +2176,18 @@
   },
   {
     "image": "images/snow_plow.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/soap.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/social_studies.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/socks.gif",
@@ -2197,7 +2197,7 @@
   {
     "image": "images/soda.gif",
     "category": "foods",
-    "subCategory": "fast_food"
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/spool_of_thread.gif",
@@ -2226,8 +2226,8 @@
   },
   {
     "image": "images/stove.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/strawberry.gif",
@@ -2246,8 +2246,8 @@
   },
   {
     "image": "images/students.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "school"
   },
   {
     "image": "images/sucking_thumb.gif",
@@ -2256,8 +2256,8 @@
   },
   {
     "image": "images/sugar.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/summer.gif",
@@ -2276,8 +2276,8 @@
   },
   {
     "image": "images/suv.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/swan.gif",
@@ -2316,33 +2316,33 @@
   },
   {
     "image": "images/tablet.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "misc_household"
   },
   {
     "image": "images/tank.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "military"
   },
   {
     "image": "images/teddy_bear.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "toy_store"
   },
   {
     "image": "images/teeth.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "body_parts"
   },
   {
     "image": "images/telescope.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/television.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "family_room"
   },
   {
     "image": "images/thanksgiving.gif",
@@ -2371,13 +2371,13 @@
   },
   {
     "image": "images/throw_away.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "general_help"
   },
   {
     "image": "images/ties_shoes.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/timed_workout.gif",
@@ -2401,43 +2401,43 @@
   },
   {
     "image": "images/toaster.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/toilet.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toilet_open.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toilet_paper.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toothpaste.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toothpaste_closed.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toothpaste_open.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/toy_store.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "toy_store"
   },
   {
     "image": "images/trampoline.gif",
@@ -2446,8 +2446,8 @@
   },
   {
     "image": "images/trash_can.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "kitchen"
   },
   {
     "image": "images/trumpet.gif",
@@ -2471,8 +2471,8 @@
   },
   {
     "image": "images/tweezers.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "household",
+    "subCategory": "bathroom"
   },
   {
     "image": "images/tyrannosaaurus_rex.gif",
@@ -2506,8 +2506,8 @@
   },
   {
     "image": "images/use_toothpaste.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/u_lowercase.gif",
@@ -2526,8 +2526,8 @@
   },
   {
     "image": "images/van.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "transportation",
+    "subCategory": "ground"
   },
   {
     "image": "images/volleyball_player.gif",
@@ -2551,8 +2551,8 @@
   },
   {
     "image": "images/wagon.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "toy_store"
   },
   {
     "image": "images/wait.gif",
@@ -2566,8 +2566,8 @@
   },
   {
     "image": "images/wash_hands.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/watching_tv.gif",
@@ -2576,8 +2576,8 @@
   },
   {
     "image": "images/water.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "foods",
+    "subCategory": "snacks_and_more"
   },
   {
     "image": "images/watermelon.gif",
@@ -2586,8 +2586,8 @@
   },
   {
     "image": "images/water_fountain.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "places",
+    "subCategory": "outdoors"
   },
   {
     "image": "images/wave.gif",
@@ -2596,8 +2596,8 @@
   },
   {
     "image": "images/wear_helmet.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "general_help"
   },
   {
     "image": "images/week.gif",
@@ -2626,28 +2626,28 @@
   },
   {
     "image": "images/wipe_face.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/wipe_nose.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "personal_care"
   },
   {
     "image": "images/woman.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "individuals"
   },
   {
     "image": "images/women.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "people",
+    "subCategory": "groups"
   },
   {
     "image": "images/wood_clamp.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/wreath.gif",
@@ -2656,8 +2656,8 @@
   },
   {
     "image": "images/wrench.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "tools",
+    "subCategory": "hand_tools"
   },
   {
     "image": "images/w_lowercase.gif",
@@ -2721,13 +2721,13 @@
   },
   {
     "image": "images/zip-up.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/zipper.gif",
-    "category": "",
-    "subCategory": ""
+    "category": "self-help",
+    "subCategory": "dressing"
   },
   {
     "image": "images/z_lowercase.gif",
