@@ -61,7 +61,7 @@
                     const match = image.match(regex)
                     const file = { name: image, download_url: image }
                     if (match) {
-                        file["spoken_name"] = match[1].replace("_", " ")
+                        file["spoken_name"] = match[1].replaceAll("_", " ")
                     }
 
 
@@ -118,7 +118,7 @@
                     filterSubCategoriesByClass(category)
                 })
 
-                categoryButton.textContent = category.replace("_", " ")
+                categoryButton.textContent = category.replaceAll("_", " ")
                 document.getElementById("categories").appendChild(categoryButton)
             })
         }
@@ -131,13 +131,13 @@
                 const subCategoryButton = document.createElement("button")
                 subCategoryButton.classList.add(className, "subCategoriesButton")
                 subCategoryButton.addEventListener("click", () => filterImagesByClass(subCategory))
-                subCategoryButton.textContent = subCategory.replace("_", " ")
+                subCategoryButton.textContent = subCategory.replaceAll("_", " ")
                 document.getElementById("subCategories").appendChild(subCategoryButton)
             })
         }
 
         function updateSearch() {
-            const searchtext = document.getElementById("search-bar").value.replace("'", "").toLowerCase()
+            const searchtext = document.getElementById("search-bar").value.replaceAll("'", "").toLowerCase()
             for (let element of document.getElementsByClassName("PECS")) {
                 const altText = element.getAttribute("alt").toLowerCase()
                 if (altText && searchtext && !altText.includes(searchtext)) {
