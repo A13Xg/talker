@@ -1,6 +1,6 @@
 {
-  "appId": "com.abc",
-  "appName": "abc",
+  "appId": "com.jezarr.app",
+  "appName": "talker",
   "webDir": "dist",
   "plugins": {
     "SplashScreen": {
