@@ -13,9 +13,10 @@ npm start
 
 ### iOS aspect
 
-Quite a lot of setup here from the capacitor js site. I am running these two
+To run the simulator build, once you have xcode set up, you can run
 
 ```bash
 npm run build
+npx cap sync ios
 npx cap run ios
 ```
