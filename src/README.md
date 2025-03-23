@@ -10,13 +10,3 @@ To run the provided example, you can use `npm start` command.
 ```bash
 npm start
 ```
-
-### iOS aspect
-
-To run the simulator build, once you have xcode set up, you can run
-
-```bash
-npm run build
-npx cap sync ios
-npx cap run ios
-```
