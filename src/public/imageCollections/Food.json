@@ -1,5 +1,5 @@
 {
-  "images": [
+  "Food": [
     {
       "index": 1,
       "image_name": "apple.jpg",
@@ -218,4 +218,37 @@
     {
       "index": 44,
       "image_name": "burrito.jpg",
-      "description": "A burrito wrapped
+      "description": "A burrito wrapped tightly with seasoned beef, beans, and guacamole, served on a plate."
+    },
+    {
+      "index": 45,
+      "image_name": "pasta.jpg",
+      "description": "A plate of pasta, covered in tomato sauce, sprinkled with parmesan cheese and garnished with fresh basil."
+    },
+    {
+      "index": 46,
+      "image_name": "pasta_salad.jpg",
+      "description": "A bowl of pasta salad with colorful vegetables, dressing, and fresh herbs."
+    },
+    {
+      "index": 47,
+      "image_name": "egg_salad.jpg",
+      "description": "A creamy egg salad made with boiled eggs, mayo, mustard, and a dash of paprika, served on a bed of lettuce."
+    },
+    {
+      "index": 48,
+      "image_name": "soda.jpg",
+      "description": "A can of soda with bubbles rising to the top, placed next to a refreshing glass filled with ice."
+    },
+    {
+      "index": 49,
+      "image_name": "sashimi.jpg",
+      "description": "Fresh slices of sashimi-grade tuna and salmon, garnished with wasabi and ginger, placed on a bamboo mat."
+    },
+    {
+      "index": 50,
+      "image_name": "fried_chicken.jpg",
+      "description": "A plate of crispy fried chicken pieces with a golden-brown coating and a side of mashed potatoes and gravy."
+    }
+  ]
+}
