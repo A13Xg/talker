@@ -1,0 +1,254 @@
+{
+  "Restaurants": [
+    {
+      "index": 1,
+      "image_name": "a_and_w.jpg",
+      "description": "An A&W fast food restaurant with its signature root beer mugs and a variety of burgers, fries, and onion rings."
+    },
+    {
+      "index": 2,
+      "image_name": "applebees.jpg",
+      "description": "A casual sit-down restaurant with booths and tables, serving a variety of American comfort food like steaks, burgers, and pasta."
+    },
+    {
+      "index": 3,
+      "image_name": "arby's.jpg",
+      "description": "An Arby’s fast food restaurant featuring roast beef sandwiches, curly fries, and a drive-through window."
+    },
+    {
+      "index": 4,
+      "image_name": "bagel_shop.jpg",
+      "description": "A local bagel shop with freshly baked bagels, cream cheese spreads, and a cozy atmosphere for breakfast and brunch."
+    },
+    {
+      "index": 5,
+      "image_name": "barbecue_joint.jpg",
+      "description": "A barbecue restaurant serving up smoked meats such as ribs, pulled pork, and brisket, with classic sides like coleslaw and baked beans."
+    },
+    {
+      "index": 6,
+      "image_name": "baskin_robbins.jpg",
+      "description": "A Baskin-Robbins ice cream shop with colorful scoops of ice cream, milkshakes, and sundaes displayed behind the counter."
+    },
+    {
+      "index": 7,
+      "image_name": "bennigans.jpg",
+      "description": "A casual dining restaurant offering Irish-American cuisine, including dishes like fish and chips, Irish stew, and signature burgers."
+    },
+    {
+      "index": 8,
+      "image_name": "big_boy.jpg",
+      "description": "A Big Boy restaurant with its iconic mascot, offering comfort foods like burgers, sandwiches, and breakfast platters."
+    },
+    {
+      "index": 9,
+      "image_name": "boston_market.jpg",
+      "description": "A fast-casual restaurant serving rotisserie chicken, mashed potatoes, and other home-style sides in a family-friendly setting."
+    },
+    {
+      "index": 10,
+      "image_name": "burger_king.jpg",
+      "description": "A fast food restaurant featuring flame-grilled burgers, fries, chicken sandwiches, and a drive-through service."
+    },
+    {
+      "index": 11,
+      "image_name": "cafeteria_style_restaurant.jpg",
+      "description": "A casual cafeteria-style restaurant where customers select from a variety of prepared foods displayed on a counter."
+    },
+    {
+      "index": 12,
+      "image_name": "california_pizza_kitchen.jpg",
+      "description": "A California Pizza Kitchen with a modern and vibrant interior, offering unique pizzas, pasta dishes, and fresh salads."
+    },
+    {
+      "index": 13,
+      "image_name": "canadian_tire.jpg",
+      "description": "A hybrid retail store with an attached food court, offering a mix of Canadian comfort food like poutine, hot dogs, and coffee."
+    },
+    {
+      "index": 14,
+      "image_name": "chick_fil_a.jpg",
+      "description": "A Chick-fil-A fast food chain known for its chicken sandwiches, waffle fries, and fast, friendly drive-through service."
+    },
+    {
+      "index": 15,
+      "image_name": "chipotle.jpg",
+      "description": "A fast-casual Mexican restaurant where customers customize their burritos, tacos, or bowls with fresh ingredients."
+    },
+    {
+      "index": 16,
+      "image_name": "cracker_barrel.jpg",
+      "description": "A southern-style restaurant serving comfort food like biscuits, fried chicken, meatloaf, and country ham, with a nostalgic country store."
+    },
+    {
+      "index": 17,
+      "image_name": "dairy_queen.jpg",
+      "description": "A Dairy Queen fast food restaurant with a variety of ice cream treats, burgers, and chicken tenders, along with a signature Blizzard."
+    },
+    {
+      "index": 18,
+      "image_name": "dennys.jpg",
+      "description": "A 24-hour diner-style restaurant offering a wide range of classic American breakfast dishes, burgers, and diner staples."
+    },
+    {
+      "index": 19,
+      "image_name": "dunkin_donuts.jpg",
+      "description": "A Dunkin' Donuts chain with freshly brewed coffee, donuts, bagels, and breakfast sandwiches available at the drive-through or in-store."
+    },
+    {
+      "index": 20,
+      "image_name": "five_guys.jpg",
+      "description": "A Five Guys fast casual restaurant specializing in custom-made burgers, fries, and milkshakes in a vibrant, open-air setting."
+    },
+    {
+      "index": 21,
+      "image_name": "food_truck.jpg",
+      "description": "A popular food truck offering a variety of street foods like tacos, gourmet sandwiches, and loaded fries, serving food on the go."
+    },
+    {
+      "index": 22,
+      "image_name": "hardees.jpg",
+      "description": "A Hardee's fast food restaurant featuring charbroiled burgers, breakfast burritos, and a variety of milkshakes."
+    },
+    {
+      "index": 23,
+      "image_name": "hometown_buffet.jpg",
+      "description": "A buffet-style restaurant offering a variety of hot dishes, salads, and desserts, with a family-friendly atmosphere."
+    },
+    {
+      "index": 24,
+      "image_name": "hopdoddy_burger_bar.jpg",
+      "description": "A gourmet burger restaurant offering unique, upscale burgers made with fresh ingredients, paired with craft beers."
+    },
+    {
+      "index": 25,
+      "image_name": "in_and_out_burger.jpg",
+      "description": "An In-N-Out Burger restaurant known for its fresh burgers, fries, and signature 'secret menu' options, with a busy drive-through line."
+    },
+    {
+      "index": 26,
+      "image_name": "italian_ristorante.jpg",
+      "description": "A traditional Italian restaurant offering homemade pasta dishes, wood-fired pizzas, and Italian wines in an intimate setting."
+    },
+    {
+      "index": 27,
+      "image_name": "jack_in_the_box.jpg",
+      "description": "A fast food chain serving burgers, tacos, breakfast sandwiches, and a wide range of drinks with a drive-through window."
+    },
+    {
+      "index": 28,
+      "image_name": "jimmy_johns.jpg",
+      "description": "A Jimmy John’s sandwich chain known for its fast, fresh subs and delivery service, with a variety of meats, cheeses, and toppings."
+    },
+    {
+      "index": 29,
+      "image_name": "kfc.jpg",
+      "description": "A KFC fast food chain specializing in fried chicken, mashed potatoes, cole slaw, and signature biscuits."
+    },
+    {
+      "index": 30,
+      "image_name": "longhorn_steakhouse.jpg",
+      "description": "A LongHorn Steakhouse offering a variety of steaks, burgers, and signature salads, with a rustic, western-inspired ambiance."
+    },
+    {
+      "index": 31,
+      "image_name": "luby_s.jpg",
+      "description": "A cafeteria-style restaurant offering a variety of comfort foods such as meatloaf, fried chicken, and mashed potatoes."
+    },
+    {
+      "index": 32,
+      "image_name": "mcdonalds.jpg",
+      "description": "A McDonald's fast food restaurant with the iconic golden arches, serving burgers, fries, chicken nuggets, and ice cream."
+    },
+    {
+      "index": 33,
+      "image_name": "mexican_restaurant.jpg",
+      "description": "A local Mexican restaurant with vibrant decor, serving traditional dishes like enchiladas, tacos, and margaritas."
+    },
+    {
+      "index": 34,
+      "image_name": "nandos.jpg",
+      "description": "A Nando's chain offering flame-grilled chicken with spicy Peri-Peri sauce, served with a variety of sides like rice and coleslaw."
+    },
+    {
+      "index": 35,
+      "image_name": "olive_garden.jpg",
+      "description": "An Olive Garden restaurant serving Italian-American dishes like pasta, breadsticks, and salads in a warm and welcoming environment."
+    },
+    {
+      "index": 36,
+      "image_name": "outback_steakhouse.jpg",
+      "description": "An Outback Steakhouse with a casual Australian-inspired theme, offering steaks, seafood, and signature blooming onions."
+    },
+    {
+      "index": 37,
+      "image_name": "panda_express.jpg",
+      "description": "A Panda Express fast-casual Chinese restaurant offering a variety of dishes like orange chicken, fried rice, and egg rolls."
+    },
+    {
+      "index": 38,
+      "image_name": "pizza_hut.jpg",
+      "description": "A Pizza Hut franchise serving pizza with a variety of crusts, toppings, and sides like breadsticks and wings."
+    },
+    {
+      "index": 39,
+      "image_name": "quiznos.jpg",
+      "description": "A Quiznos sub shop offering toasted sandwiches with a variety of fillings like roast beef, chicken, and Italian meats."
+    },
+    {
+      "index": 40,
+      "image_name": "red_lobster.jpg",
+      "description": "A Red Lobster seafood restaurant offering a variety of fish, shellfish, and signature cheddar biscuits in a nautical setting."
+    },
+    {
+      "index": 41,
+      "image_name": "roadhouse_restaurant.jpg",
+      "description": "A rustic roadhouse-style restaurant offering steak, ribs, and other hearty American dishes with a lively, casual atmosphere."
+    },
+    {
+      "index": 42,
+      "image_name": "shake_shack.jpg",
+      "description": "A trendy Shake Shack offering gourmet burgers, crinkle-cut fries, and hand-spun milkshakes in a fast-casual setting."
+    },
+    {
+      "index": 43,
+      "image_name": "subway.jpg",
+      "description": "A Subway sandwich shop with a variety of fresh subs, wraps, and salads, where customers can customize their orders."
+    },
+    {
+      "index": 44,
+      "image_name": "taco_bell.jpg",
+      "description": "A Taco Bell fast food restaurant specializing in Mexican-inspired items like tacos, burritos, nachos, and quesadillas."
+    },
+    {
+      "index": 45,
+      "image_name": "texas_roadhouse.jpg",
+      "description": "A Texas Roadhouse with a vibrant, country-western theme, offering steaks, ribs, and homemade bread rolls with cinnamon butter."
+    },
+    {
+      "index": 46,
+      "image_name": "wendys.jpg",
+      "description": "A Wendy’s fast food chain known for its fresh, never frozen beef burgers, crispy fries, and signature Frosty desserts."
+    },
+    {
+      "index": 47,
+      "image_name": "western_sizzlin.jpg",
+      "description": "A family-friendly buffet restaurant offering grilled steaks, fried chicken, and other Southern favorites."
+    },
+    {
+      "index": 48,
+      "image_name": "wingstop.jpg",
+      "description": "A Wingstop restaurant specializing in a variety of chicken wings with different sauces and sides like fries and onion rings."
+    },
+    {
+      "index": 49,
+      "image_name": "yogurt_shop.jpg",
+      "description": "A self-serve frozen yogurt shop offering a variety of toppings, from fresh fruit to candy, in a fun and casual environment."
+    },
+    {
+      "index": 50,
+      "image_name": "zaxbys.jpg",
+      "description": "A Zaxby's fast food chain specializing in chicken fingers, wings, salads, and fries, with a focus on dipping sauces."
+    }
+  ]
+}
