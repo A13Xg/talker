@@ -1,0 +1,254 @@
+{
+  "Places": [
+    {
+      "index": 1,
+      "image_name": "airport_terminal.jpg",
+      "description": "A busy airport terminal with people waiting in line, flight information screens, and large windows overlooking airplanes on the tarmac."
+    },
+    {
+      "index": 2,
+      "image_name": "amusement_park.jpg",
+      "description": "A colorful amusement park with roller coasters, ferris wheels, and crowds of visitors enjoying the rides."
+    },
+    {
+      "index": 3,
+      "image_name": "art_gallery.jpg",
+      "description": "A contemporary art gallery with clean white walls and framed paintings displayed in sleek, modern frames."
+    },
+    {
+      "index": 4,
+      "image_name": "bakery.jpg",
+      "description": "A charming bakery with freshly baked bread, pastries, and cakes on display, with a warm and inviting interior."
+    },
+    {
+      "index": 5,
+      "image_name": "bank_building.jpg",
+      "description": "A tall, glass-paneled bank building with a modern architectural design and a large marble lobby."
+    },
+    {
+      "index": 6,
+      "image_name": "bar.jpg",
+      "description": "A stylish cocktail bar with sleek lighting, a long wooden counter, and rows of premium liquor bottles."
+    },
+    {
+      "index": 7,
+      "image_name": "beach.jpg",
+      "description": "A serene beach with golden sand, clear blue water, and palm trees gently swaying in the breeze."
+    },
+    {
+      "index": 8,
+      "image_name": "bridge.jpg",
+      "description": "A large suspension bridge spanning across a river, with vehicles and pedestrians crossing beneath the clear sky."
+    },
+    {
+      "index": 9,
+      "image_name": "cafe.jpg",
+      "description": "A cozy street-side cafe with outdoor seating, tables filled with coffee cups, and potted plants lining the entrance."
+    },
+    {
+      "index": 10,
+      "image_name": "cathedral.jpg",
+      "description": "A grand Gothic cathedral with towering spires, intricate stained glass windows, and a majestic interior."
+    },
+    {
+      "index": 11,
+      "image_name": "cinema.jpg",
+      "description": "A vintage cinema with a neon sign, rows of theater chairs, and a large projector screen ready for the next movie showing."
+    },
+    {
+      "index": 12,
+      "image_name": "college_campus.jpg",
+      "description": "A scenic college campus with brick buildings, large grassy lawns, students walking between classes, and a central fountain."
+    },
+    {
+      "index": 13,
+      "image_name": "convenience_store.jpg",
+      "description": "A brightly lit convenience store with aisles of snacks, drinks, and household products neatly arranged on shelves."
+    },
+    {
+      "index": 14,
+      "image_name": "courthouse.jpg",
+      "description": "An imposing courthouse building with columns and a large staircase leading up to the entrance."
+    },
+    {
+      "index": 15,
+      "image_name": "dance_club.jpg",
+      "description": "A lively dance club with a vibrant dance floor, neon lights, and a DJ booth playing energetic music."
+    },
+    {
+      "index": 16,
+      "image_name": "department_store.jpg",
+      "description": "A massive department store with various sections, from clothing to electronics, bustling with shoppers."
+    },
+    {
+      "index": 17,
+      "image_name": "downtown.jpg",
+      "description": "A bustling downtown city street with high-rise office buildings, restaurants, cafes, and busy pedestrians."
+    },
+    {
+      "index": 18,
+      "image_name": "factory.jpg",
+      "description": "A large industrial factory with assembly lines, machinery, and workers wearing protective gear."
+    },
+    {
+      "index": 19,
+      "image_name": "farmhouse.jpg",
+      "description": "A rustic farmhouse with a wraparound porch, surrounded by green fields and a small barn in the distance."
+    },
+    {
+      "index": 20,
+      "image_name": "fire_station.jpg",
+      "description": "A bright red fire station with large garage doors, fire trucks, and firemen standing ready outside."
+    },
+    {
+      "index": 21,
+      "image_name": "gas_station.jpg",
+      "description": "A busy gas station with fuel pumps, a convenience store, and cars filling up on a sunny afternoon."
+    },
+    {
+      "index": 22,
+      "image_name": "golf_course.jpg",
+      "description": "A sprawling green golf course with neatly trimmed fairways, golfers on the course, and a clubhouse in the distance."
+    },
+    {
+      "index": 23,
+      "image_name": "hospital.jpg",
+      "description": "A modern hospital building with a glass exterior, emergency vehicles parked outside, and staff walking through the entrance."
+    },
+    {
+      "index": 24,
+      "image_name": "hotel_lobby.jpg",
+      "description": "A luxurious hotel lobby with a grand chandelier, marble floors, and a reception desk with bellhops."
+    },
+    {
+      "index": 25,
+      "image_name": "house.jpg",
+      "description": "A cozy suburban house with a white picket fence, a neatly trimmed lawn, and a welcome mat at the door."
+    },
+    {
+      "index": 26,
+      "image_name": "library.jpg",
+      "description": "A large public library with high shelves filled with books, quiet study areas, and large windows letting in natural light."
+    },
+    {
+      "index": 27,
+      "image_name": "market.jpg",
+      "description": "A vibrant outdoor market with colorful stalls, fresh produce, handmade goods, and busy shoppers."
+    },
+    {
+      "index": 28,
+      "image_name": "museum.jpg",
+      "description": "A grand museum with impressive architecture, featuring art exhibits and visitors admiring the displays."
+    },
+    {
+      "index": 29,
+      "image_name": "office_building.jpg",
+      "description": "A sleek, modern office building with glass windows, a large entrance, and workers entering and leaving."
+    },
+    {
+      "index": 30,
+      "image_name": "opera_house.jpg",
+      "description": "A majestic opera house with grand columns, ornate interior, and a stage set for a performance."
+    },
+    {
+      "index": 31,
+      "image_name": "park.jpg",
+      "description": "A tranquil city park with lush green grass, benches, trees, and children playing near a fountain."
+    },
+    {
+      "index": 32,
+      "image_name": "pet_store.jpg",
+      "description": "A colorful pet store with aisles filled with pet food, toys, and tanks filled with fish."
+    },
+    {
+      "index": 33,
+      "image_name": "pharmacy.jpg",
+      "description": "A clean, well-organized pharmacy with shelves full of medication, health products, and a pharmacist at the counter."
+    },
+    {
+      "index": 34,
+      "image_name": "police_station.jpg",
+      "description": "A municipal police station with patrol cars parked outside, officers entering, and a large station sign."
+    },
+    {
+      "index": 35,
+      "image_name": "post_office.jpg",
+      "description": "A small post office with mailboxes, a counter with clerks, and packages being sorted."
+    },
+    {
+      "index": 36,
+      "image_name": "restaurant.jpg",
+      "description": "A stylish restaurant with dim lighting, a large menu of dishes, and a waiter serving food to a table."
+    },
+    {
+      "index": 37,
+      "image_name": "skyscraper.jpg",
+      "description": "A tall glass skyscraper rising into the sky, with reflections of the surrounding cityscape in its windows."
+    },
+    {
+      "index": 38,
+      "image_name": "stadium.jpg",
+      "description": "A massive sports stadium with packed seating, a large field in the center, and cheering fans."
+    },
+    {
+      "index": 39,
+      "image_name": "supermarket.jpg",
+      "description": "A well-lit supermarket with aisles of groceries, fresh produce, and a busy checkout lane."
+    },
+    {
+      "index": 40,
+      "image_name": "temple.jpg",
+      "description": "An ancient stone temple with intricate carvings, towering columns, and lush vegetation surrounding it."
+    },
+    {
+      "index": 41,
+      "image_name": "theater.jpg",
+      "description": "A historic theater with a red velvet curtain, ornate seating, and a grand stage set for a performance."
+    },
+    {
+      "index": 42,
+      "image_name": "town_hall.jpg",
+      "description": "A classical town hall building with large columns, a clock tower, and a central courtyard."
+    },
+    {
+      "index": 43,
+      "image_name": "university.jpg",
+      "description": "A sprawling university campus with ivy-covered buildings, students walking between classes, and a large quad."
+    },
+    {
+      "index": 44,
+      "image_name": "veterinary_clinic.jpg",
+      "description": "A clean and modern veterinary clinic with a reception desk, exam rooms, and a variety of animal care equipment."
+    },
+    {
+      "index": 45,
+      "image_name": "warehouse.jpg",
+      "description": "A large warehouse filled with shelves of goods, forklifts moving boxes, and workers organizing inventory."
+    },
+    {
+      "index": 46,
+      "image_name": "water_treatment_plant.jpg",
+      "description": "A large industrial water treatment plant with tanks and filtration equipment working to process clean water."
+    },
+    {
+      "index": 47,
+      "image_name": "wedding_venue.jpg",
+      "description": "A beautiful wedding venue with a flower-adorned altar, rows of chairs, and elegant chandeliers."
+    },
+    {
+      "index": 48,
+      "image_name": "zoo.jpg",
+      "description": "A large zoo with various animal enclosures, including lions, giraffes, and elephants, and visitors walking along pathways."
+    },
+    {
+      "index": 49,
+      "image_name": "library_cafe.jpg",
+      "description": "A cozy library cafe with bookshelves, comfortable seating, and a coffee counter serving drinks."
+    },
+    {
+      "index": 50,
+      "image_name": "botanical_garden.jpg",
+      "description": "A peaceful botanical garden with colorful flowers, trees, and a winding path through lush greenery."
+    }
+  ]
+}
