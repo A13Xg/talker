@@ -1,0 +1,254 @@
+{
+  "Household-Objects": [
+    {
+      "index": 1,
+      "image_name": "lamp.jpg",
+      "description": "A modern desk lamp with a sleek metallic base and a soft, warm light glowing from the bulb."
+    },
+    {
+      "index": 2,
+      "image_name": "sofa.jpg",
+      "description": "A comfortable, plush sofa in a living room, covered with soft gray fabric and a decorative throw pillow."
+    },
+    {
+      "index": 3,
+      "image_name": "coffee_table.jpg",
+      "description": "A wooden coffee table with a glass top, holding a decorative vase and a stack of books."
+    },
+    {
+      "index": 4,
+      "image_name": "bookshelf.jpg",
+      "description": "A large wooden bookshelf filled with a variety of books, potted plants, and decorative items."
+    },
+    {
+      "index": 5,
+      "image_name": "refrigerator.jpg",
+      "description": "A stainless steel refrigerator with a sleek design, featuring a water dispenser and ice maker."
+    },
+    {
+      "index": 6,
+      "image_name": "microwave.jpg",
+      "description": "A modern microwave with a shiny metallic exterior, set on a kitchen countertop next to a bowl of fruit."
+    },
+    {
+      "index": 7,
+      "image_name": "blender.jpg",
+      "description": "A high-performance blender with a glass jar, sitting on a kitchen counter with fresh fruits nearby."
+    },
+    {
+      "index": 8,
+      "image_name": "toaster.jpg",
+      "description": "A sleek, silver toaster with two slots, freshly toasted slices of bread popping out."
+    },
+    {
+      "index": 9,
+      "image_name": "washing_machine.jpg",
+      "description": "A front-loading washing machine with a white exterior, placed in a modern laundry room."
+    },
+    {
+      "index": 10,
+      "image_name": "dishwasher.jpg",
+      "description": "A built-in dishwasher with a smooth white finish, slightly open to reveal clean dishes inside."
+    },
+    {
+      "index": 11,
+      "image_name": "vacuum_cleaner.jpg",
+      "description": "A cordless vacuum cleaner with a sleek design, resting against a hardwood floor in a living room."
+    },
+    {
+      "index": 12,
+      "image_name": "fan.jpg",
+      "description": "A large, oscillating fan with metal blades, standing in the corner of a living room, blowing a cool breeze."
+    },
+    {
+      "index": 13,
+      "image_name": "clock.jpg",
+      "description": "A vintage wall clock with Roman numerals, hanging above a fireplace with a cozy ambiance."
+    },
+    {
+      "index": 14,
+      "image_name": "mirror.jpg",
+      "description": "A large, ornate mirror with a gold-framed edge, reflecting soft natural light from a nearby window."
+    },
+    {
+      "index": 15,
+      "image_name": "desk.jpg",
+      "description": "A wooden desk with a clean surface, featuring a laptop, a potted plant, and a desk lamp."
+    },
+    {
+      "index": 16,
+      "image_name": "chair.jpg",
+      "description": "A modern ergonomic chair with black mesh fabric, placed at a desk in a well-lit home office."
+    },
+    {
+      "index": 17,
+      "image_name": "rug.jpg",
+      "description": "A cozy wool rug with intricate patterns, placed in the center of a living room on a hardwood floor."
+    },
+    {
+      "index": 18,
+      "image_name": "curtains.jpg",
+      "description": "Elegant, floor-to-ceiling curtains in a soft beige fabric, gently billowing from the open window."
+    },
+    {
+      "index": 19,
+      "image_name": "bed.jpg",
+      "description": "A comfortable queen-sized bed with a fluffy white duvet, several pillows, and a soft wool throw blanket."
+    },
+    {
+      "index": 20,
+      "image_name": "nightstand.jpg",
+      "description": "A simple wooden nightstand with a lamp, an open book, and a small potted plant."
+    },
+    {
+      "index": 21,
+      "image_name": "bathtub.jpg",
+      "description": "A freestanding white bathtub with a shiny chrome faucet, surrounded by candles and bath salts."
+    },
+    {
+      "index": 22,
+      "image_name": "toilet.jpg",
+      "description": "A modern white toilet in a clean, bright bathroom with a small plant on the windowsill."
+    },
+    {
+      "index": 23,
+      "image_name": "shower.jpg",
+      "description": "A spacious walk-in shower with glass walls, sleek tiles, and a rainfall showerhead."
+    },
+    {
+      "index": 24,
+      "image_name": "toothbrush.jpg",
+      "description": "A brightly colored toothbrush with a sleek handle, resting next to a bathroom sink."
+    },
+    {
+      "index": 25,
+      "image_name": "towel.jpg",
+      "description": "A fluffy white bath towel neatly folded on a bathroom counter, with a fresh scent of lavender."
+    },
+    {
+      "index": 26,
+      "image_name": "laundry_basket.jpg",
+      "description": "A woven laundry basket filled with clothes, sitting near the washing machine in a laundry room."
+    },
+    {
+      "index": 27,
+      "image_name": "dish_rack.jpg",
+      "description": "A silver dish rack with freshly washed plates, glasses, and utensils drying on a kitchen counter."
+    },
+    {
+      "index": 28,
+      "image_name": "trash_can.jpg",
+      "description": "A modern stainless steel trash can with a foot pedal, placed in the kitchen near the counter."
+    },
+    {
+      "index": 29,
+      "image_name": "fridge_magnet.jpg",
+      "description": "A colorful fridge magnet with a cute design, stuck to the front of a white refrigerator."
+    },
+    {
+      "index": 30,
+      "image_name": "laundry_detergent.jpg",
+      "description": "A bottle of laundry detergent with a bright label, placed on a shelf in the laundry room."
+    },
+    {
+      "index": 31,
+      "image_name": "stove.jpg",
+      "description": "A modern gas stove with a stainless steel finish, a pot of soup simmering on one burner."
+    },
+    {
+      "index": 32,
+      "image_name": "oven.jpg",
+      "description": "A sleek black oven with a digital display, a freshly baked loaf of bread cooling inside."
+    },
+    {
+      "index": 33,
+      "image_name": "kettle.jpg",
+      "description": "A polished stainless steel kettle whistling on a stove, steam rising from the spout."
+    },
+    {
+      "index": 34,
+      "image_name": "frying_pan.jpg",
+      "description": "A cast iron frying pan sizzling with a few eggs being fried, placed on a stovetop."
+    },
+    {
+      "index": 35,
+      "image_name": "cutting_board.jpg",
+      "description": "A wooden cutting board with fresh vegetables and a sharp knife ready for chopping."
+    },
+    {
+      "index": 36,
+      "image_name": "tea_cup.jpg",
+      "description": "A delicate porcelain tea cup filled with steaming green tea, resting on a matching saucer."
+    },
+    {
+      "index": 37,
+      "image_name": "wine_glass.jpg",
+      "description": "A crystal wine glass filled with red wine, sitting on a wooden dining table with soft lighting."
+    },
+    {
+      "index": 38,
+      "image_name": "plates.jpg",
+      "description": "A stack of elegant white plates arranged neatly on a dining table, with a simple floral pattern."
+    },
+    {
+      "index": 39,
+      "image_name": "glasses.jpg",
+      "description": "A pair of stylish reading glasses resting on an open book, with a cup of coffee next to them."
+    },
+    {
+      "index": 40,
+      "image_name": "lamp_shade.jpg",
+      "description": "A soft fabric lampshade casting a warm, inviting glow, sitting on a nightstand next to a bed."
+    },
+    {
+      "index": 41,
+      "image_name": "broom.jpg",
+      "description": "A traditional broom with a wooden handle, standing in the corner of a clean hallway."
+    },
+    {
+      "index": 42,
+      "image_name": "dustpan.jpg",
+      "description": "A small dustpan with a matching hand broom, resting on a wooden floor next to a pile of dust."
+    },
+    {
+      "index": 43,
+      "image_name": "fireplace.jpg",
+      "description": "A cozy fireplace with a warm, crackling fire, surrounded by stonework and a few comfortable armchairs."
+    },
+    {
+      "index": 44,
+      "image_name": "couch_pillow.jpg",
+      "description": "A plush throw pillow with a geometric pattern, resting on the arm of a comfortable sofa."
+    },
+    {
+      "index": 45,
+      "image_name": "shoes.jpg",
+      "description": "A pair of leather shoes neatly placed next to the door, ready for a day out."
+    },
+    {
+      "index": 46,
+      "image_name": "coasters.jpg",
+      "description": "A set of stylish coasters on a coffee table, with a glass of iced tea resting on one of them."
+    },
+    {
+      "index": 47,
+      "image_name": "welcome_mat.jpg",
+      "description": "A doormat with the word 'Welcome' in elegant script, placed at the front door."
+    },
+    {
+      "index": 48,
+      "image_name": "tea_kettle.jpg",
+      "description": "A vintage tea kettle with a curved spout, sitting on a stovetop ready to boil water."
+    },
+    {
+      "index": 49,
+      "image_name": "tissue_box.jpg",
+      "description": "A decorative tissue box made of wood, placed on a coffee table in a living room."
+    },
+    {
+      "index": 50,
+      "image_name": "door_knob.jpg",
+      "description": "A shiny brass door knob with intricate details, attached to a wooden door in a hallway."
+    }
+  ]
+}
